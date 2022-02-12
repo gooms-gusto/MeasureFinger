@@ -1,0 +1,108 @@
+D:\_Dokumen\_Side Job\2013\ver 2010\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\ver 2010\DAL\obj\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\DAL\obj\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\ver 2010\DAL\bin\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\DAL\bin\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\ver 2010\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\_Dokumen\_Side Job\2013\ver 2010\DAL\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\_Dokumen\_Side Job\2013\ver 2010\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\DAL\bin\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\DAL\bin\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\DAL\obj\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\DAL\obj\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\bin\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\bin\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\obj\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\obj\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\bin\Debug\EncrytionHash.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\bin\Debug\EncrytionHash.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\DAL\bin\Debug\System.Management.dll
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\DAL.dll
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\DAL.pdb
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\EncrytionHash.dll
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\System.Management.dll
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\EncrytionHash.pdb
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.pdb
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\obj\Debug\DAL.dll
+G:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\obj\Debug\DAL.pdb
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\DAL.dll
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\DAL.pdb
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\EncrytionHash.dll
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\System.Management.dll
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\EncrytionHash.pdb
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.pdb
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\obj\Debug\DAL.dll
+H:\Gresik Office\SideJob\side job\2013\repository\Finger_Analisys\DAL\obj\Debug\DAL.pdb
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\obj\Debug\DAL.dll
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\bin\Debug\x64\SQLite.Interop.dll
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\bin\Debug\x86\SQLite.Interop.dll
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\bin\Debug\DAL.dll
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\bin\Debug\DAL.pdb
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\bin\Debug\EncrytionHash.dll
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\bin\Debug\System.Data.SQLite.dll
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\bin\Debug\System.Management.dll
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\bin\Debug\EncrytionHash.pdb
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\bin\Debug\System.Data.SQLite.xml
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\obj\Debug\DAL.pdb
+D:\Gresik\SideJob\Revisi\Finger_Analisys\DAL\bin\Debug\System.Configuration.dll
+d:\Project\Finger_Analisys\DAL\bin\Debug\x64\SQLite.Interop.dll
+d:\Project\Finger_Analisys\DAL\bin\Debug\x86\SQLite.Interop.dll
+d:\Project\Finger_Analisys\DAL\bin\Debug\DAL.dll
+d:\Project\Finger_Analisys\DAL\bin\Debug\DAL.pdb
+d:\Project\Finger_Analisys\DAL\bin\Debug\EncrytionHash.dll
+d:\Project\Finger_Analisys\DAL\bin\Debug\System.Configuration.dll
+d:\Project\Finger_Analisys\DAL\bin\Debug\System.Data.SQLite.dll
+d:\Project\Finger_Analisys\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+d:\Project\Finger_Analisys\DAL\bin\Debug\System.Management.dll
+d:\Project\Finger_Analisys\DAL\bin\Debug\EncrytionHash.pdb
+d:\Project\Finger_Analisys\DAL\bin\Debug\System.Data.SQLite.xml
+d:\Project\Finger_Analisys\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+d:\Project\Finger_Analisys\DAL\obj\Debug\DAL.dll
+d:\Project\Finger_Analisys\DAL\obj\Debug\DAL.pdb
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\bin\Debug\x64\SQLite.Interop.dll
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\bin\Debug\x86\SQLite.Interop.dll
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\bin\Debug\DAL.dll
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\bin\Debug\DAL.pdb
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\bin\Debug\EncrytionHash.dll
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\bin\Debug\System.Configuration.dll
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\bin\Debug\System.Data.SQLite.dll
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\bin\Debug\System.Management.dll
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\bin\Debug\EncrytionHash.pdb
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\bin\Debug\System.Data.SQLite.xml
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\obj\Debug\DAL.dll
+D:\project\01.PERSONAL\MeasureFinger\Finger_Analisys\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,163 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+using DAL;
+using log4net;
+
+namespace MeasureFinger
+{
+    public partial class FormMainMenu : Form
+    {
+        private Proxy _proxy = new Proxy();
+        private NewData _ctrl_newdata = new NewData();
+        private int _jumlah_data = 0;
+
+
+        public FormMainMenu()
+        {
+            InitializeComponent();
+            this.WindowState = FormWindowState.Maximized;
+            ModuleStatic.SetPathUtama = Environment.CurrentDirectory;
+            _ReloadDataPasien();
+        }
+
+        private void _ReloadDataPasien()
+        {
+            DataTable _dataTable = _proxy._GetPasien()._SelectPasien("", "");
+            _DgPasien.DataSource = _dataTable;
+          
+            _DgPasien.Cols[2].StyleDisplay.BackColor = Color.DarkOrange;
+            _DgPasien.Cols[4].Caption = "Umur(Thn)";
+            _jumlah_data = _dataTable.Rows.Count;
+            for (int putar=5;putar <16;putar++)
+            {
+                _DgPasien.Cols[putar].Visible = false;
+            }
+            _DgPasien.AutoSizeCols();
+        }
+
+
+
+        void _formEntryPasien__EventSimpanSukses()
+        {
+            _ReloadDataPasien();
+        }
+
+        private void _BtnCari_Click(object sender, EventArgs e)
+        {
+            _DgPasien.DataSource = _proxy._GetPasien()._SelectPasien("", _TxtValue.Text);
+            _DgPasien.AutoSizeCols();
+        }
+
+        private void _TxtValue_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar==13)
+            {
+                DataTable _dataTable = _proxy._GetPasien()._SelectPasien("", _TxtValue.Text);
+                _DgPasien.DataSource = _dataTable;
+                _DgPasien.AutoSizeCols();
+                _jumlah_data = _dataTable.Rows.Count;
+            }
+        }
+
+       
+
+        private void _BtnHapusPasien_Click(object sender, EventArgs e)
+        {
+            string _ID = null;
+            int current = (_DgPasien.Row > 0) ? _DgPasien.Rows[_DgPasien.Row].DataIndex : -1;
+            current++;
+            if (_jumlah_data > 0)
+            {
+                _ID = _DgPasien.Rows[current][1].ToString().Trim();
+            }
+            else
+            {
+                return;
+            }
+
+            DialogResult _dialogResult = MessageBox.Show("Apakah andah yakin untuk menghapus data pasien?", "Konfirmasi",
+                                                         MessageBoxButtons.YesNo, MessageBoxIcon.Question,
+                                                         MessageBoxDefaultButton.Button2);
+
+
+            if (_dialogResult==DialogResult.Yes)
+            {
+                _proxy._GetPasien()._DeletePasien(_ID);
+                _ReloadDataPasien();
+            }
+        }
+
+        private void _BtnTambahPasien_Click(object sender, EventArgs e)
+        {
+            FORM_ENTRY_PASIEN _formEntryPasien = new FORM_ENTRY_PASIEN();
+            _formEntryPasien._EventSimpanSukses += new _SimpanSukses(_formEntryPasien__EventSimpanSukses);
+            _formEntryPasien.ShowDialog();
+        }
+
+        private void _BtnUbahPasien_Click(object sender, EventArgs e)
+        {
+            string _ID = null;
+            int current = (_DgPasien.Row > 0) ? _DgPasien.Rows[_DgPasien.Row].DataIndex : -1;
+            current++;
+            if (_jumlah_data > 0)
+            {
+                _ID = _DgPasien.Rows[current][1].ToString().Trim();
+            }
+            else
+            {
+                return;
+            }
+            FORM_ENTRY_PASIEN _formEntryPasien = new FORM_ENTRY_PASIEN(_ID);
+            _formEntryPasien._EventSimpanSukses += new _SimpanSukses(_formEntryPasien__EventSimpanSukses);
+            _formEntryPasien.ShowDialog();
+        }
+
+        private void _BtnHitungJarak_Click(object sender, EventArgs e)
+        {
+            string _ID = null;
+            int current = (_DgPasien.Row > 0) ? _DgPasien.Rows[_DgPasien.Row].DataIndex : -1;
+            current++;
+            if (_jumlah_data > 0)
+            {
+                _ID = _DgPasien.Rows[current][1].ToString().Trim();
+            }
+            else
+            {
+                return;
+            }
+
+            FORM_UKUR _formUkur = new FORM_UKUR(_ID);
+            _formUkur.ShowDialog();
+        }
+
+        private void _BtnHitungProsentase_Click(object sender, EventArgs e)
+        {
+            string _ID = null;
+            int current = (_DgPasien.Row > 0) ? _DgPasien.Rows[_DgPasien.Row].DataIndex : -1;
+            current++;
+            if (_jumlah_data > 0)
+            {
+                _ID = _DgPasien.Rows[current][1].ToString().Trim();
+            }
+            else
+            {
+                return;
+            }
+
+
+
+           FORM_HASIL_ANALISA _formHasilAnalisa=new FORM_HASIL_ANALISA(_ID);
+            _formHasilAnalisa.ShowDialog();
+        }
+
+
+
+
+
+    }
+}

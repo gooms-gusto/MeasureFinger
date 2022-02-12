@@ -1,0 +1,15 @@
+D:\_Dokumen\_Gresik\SwadayaMailSystem\EncrytionHash\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Gresik\SwadayaMailSystem\EncrytionHash\bin\Debug\EncrytionHash.dll
+D:\_Dokumen\_Gresik\SwadayaMailSystem\EncrytionHash\bin\Debug\EncrytionHash.pdb
+D:\_Dokumen\_Gresik\SwadayaMailSystem\EncrytionHash\obj\Debug\EncrytionHash.dll
+D:\_Dokumen\_Gresik\SwadayaMailSystem\EncrytionHash\obj\Debug\EncrytionHash.pdb
+D:\_Dokumen\_Gresik\E PAYBILL\DEKSTOP\SwadayaMailSystem\EncrytionHash\bin\Debug\EncrytionHash.dll
+D:\_Dokumen\_Gresik\E PAYBILL\DEKSTOP\SwadayaMailSystem\EncrytionHash\bin\Debug\EncrytionHash.pdb
+D:\_Dokumen\_Gresik\E PAYBILL\DEKSTOP\SwadayaMailSystem\EncrytionHash\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Gresik\E PAYBILL\DEKSTOP\SwadayaMailSystem\EncrytionHash\obj\Debug\EncrytionHash.dll
+D:\_Dokumen\_Gresik\E PAYBILL\DEKSTOP\SwadayaMailSystem\EncrytionHash\obj\Debug\EncrytionHash.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\EncrytionHash\bin\Debug\EncrytionHash.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\EncrytionHash\bin\Debug\EncrytionHash.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\EncrytionHash\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\EncrytionHash\obj\Debug\EncrytionHash.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\EncrytionHash\obj\Debug\EncrytionHash.pdb

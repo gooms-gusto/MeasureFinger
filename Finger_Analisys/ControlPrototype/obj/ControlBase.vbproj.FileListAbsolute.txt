@@ -1,0 +1,268 @@
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\EMap.ControlPrototype.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\EMap.ControlPrototype.pdb
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\codevendor.controls.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\DL_EMap.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\GlobalClassV2.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Interop.IAORDP2.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\PinkieControls.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Renderers.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Interop.RIJNDAEL.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\XmlHelper.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\BasicsV2.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Interop.INIVB6.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Interop.RegistryClass.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Interop.MD5Dll.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Interop.ChangeVersion.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\BasicsV2.pdb
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\DL_EMap.pdb
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\GlobalClassV2.pdb
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.BaseCheckGridForm.resources
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.BaseLookUpForm.resources
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.DftrPlgForm.resources
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.EntriAlamatForm.resources
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.EntriPemohonForm.resources
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.FilterEntry.resources
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.frmTimer.resources
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.Header.resources
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.Resources.resources
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.PicClick.resources
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.TreeData.resources
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.TreeInfo.resources
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\ControlBase.vbproj.GenerateResource.Cache
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll.licenses
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll
+D:\Projects\e-Map\App\Versi 2.0\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.ControlPrototype.pdb
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\EMap.ControlPrototype.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\EMap.ControlPrototype.pdb
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\codevendor.controls.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\DL_EMap.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\GlobalClassV2.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Interop.IAORDP2.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\PinkieControls.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Renderers.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Interop.RIJNDAEL.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\XmlHelper.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\BasicsV2.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Interop.INIVB6.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Interop.RegistryClass.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Interop.MD5Dll.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\Interop.ChangeVersion.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\BasicsV2.pdb
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\DL_EMap.pdb
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\bin\Debug\GlobalClassV2.pdb
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\ResolveAssemblyReference.cache
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.BaseCheckGridForm.resources
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.BaseLookUpForm.resources
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.DftrPlgForm.resources
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.EntriAlamatForm.resources
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.EntriPemohonForm.resources
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.FilterEntry.resources
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.frmTimer.resources
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.Header.resources
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.Resources.resources
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.PicClick.resources
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.TreeData.resources
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.TreeInfo.resources
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\ControlBase.vbproj.GenerateResource.Cache
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll.licenses
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll
+D:\_Project\Emap\eMap Gab\Control Prototype\ControlPrototype\ControlPrototype\obj\Debug\EMap.ControlPrototype.pdb
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\ResolveAssemblyReference.cache
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.BaseCheckGridForm.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.BaseLookUpForm.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.DftrPlgForm.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.EntriAlamatForm.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.EntriPemohonForm.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.FilterEntry.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.frmTimer.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.Header.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.Resources.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.PicClick.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.TreeData.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.TreeInfo.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\ControlBase.vbproj.GenerateResource.Cache
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.ControlPrototype.dll.licenses
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\EMap.ControlPrototype.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\EMap.ControlPrototype.pdb
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\C1.Common.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\C1.Win.C1FlexGrid.2.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\C1.Win.C1Input.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\codevendor.controls.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\DL_EMap.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\GlobalClassV2.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\Interop.IAORDP2.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\PinkieControls.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\Renderers.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\XmlHelper.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\Interop.RIJNDAEL.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\Interop.RegistryClass.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\BasicsV2.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\Interop.INIVB6.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\Interop.MD5Dll.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\C1.C1Excel.2.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\C1.Win.C1FlexGrid.2.xml
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\bin\Release\C1.C1Excel.2.xml
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.ControlPrototype.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\ControlPrototype\obj\Release\EMap.ControlPrototype.pdb
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.BaseCheckGridForm.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.BaseLookUpForm.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.DftrPlgForm.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.EntriAlamatForm.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.EntriPemohonForm.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.FilterEntry.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.frmTimer.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.Header.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.Resources.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.PicClick.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.TreeData.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.TreeInfo.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\ControlBase.vbproj.GenerateResource.Cache
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll.licenses
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\obj\Debug\EMap.ControlPrototype.pdb
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\bin\Debug\EMap.ControlPrototype.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\bin\Debug\EMap.ControlPrototype.pdb
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\bin\Debug\GlobalClassV2.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\bin\Debug\XmlHelper.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\bin\Debug\Interop.RIJNDAEL.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\bin\Debug\Interop.RegistryClass.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\bin\Debug\Interop.MD5Dll.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\bin\Debug\C1.C1Excel.2.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\bin\Debug\GlobalClassV2.pdb
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\ControlPrototype\bin\Debug\C1.C1Excel.2.xml
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\EMap.ControlPrototype.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\EMap.ControlPrototype.pdb
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\GlobalClassV2.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\XmlHelper.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\C1.C1Excel.2.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\C1.C1Excel.2.xml
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\GlobalClassV2.pdb
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.BaseCheckGridForm.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.BaseLookUpForm.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.DftrPlgForm.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.EntriAlamatForm.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.EntriPemohonForm.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.FilterEntry.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.frmTimer.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.Header.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.Resources.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.PicClick.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.TreeData.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.TreeInfo.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\ControlBase.vbproj.GenerateResource.Cache
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll.licenses
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\obj\Debug\EMap.ControlPrototype.pdb
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\CrystalDecisions.Shared.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\ControlPrototype\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\EMap.ControlPrototype.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\EMap.ControlPrototype.pdb
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\CrystalDecisions.Shared.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\XmlHelper.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\C1.C1Excel.2.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\GlobalClassV2.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\CrystalDecisions.Windows.Forms.xml
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\CrystalDecisions.Shared.xml
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\CrystalDecisions.ReportSource.xml
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\C1.C1Excel.2.xml
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\GlobalClassV2.pdb
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.BaseCheckGridForm.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.BaseLookUpForm.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.DftrPlgForm.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.EntriAlamatForm.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.EntriPemohonForm.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.FilterEntry.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.frmTimer.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.Header.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.Resources.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.PicClick.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.TreeData.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.TreeInfo.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\ControlBase.vbproj.GenerateResource.Cache
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll.licenses
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\ControlPrototype\obj\Debug\EMap.ControlPrototype.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\EMap.ControlPrototype.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\EMap.ControlPrototype.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\CrystalDecisions.Shared.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\GlobalClassV2.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\XmlHelper.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\C1.C1Excel.2.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\C1.C1Excel.2.xml
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\GlobalClassV2.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.BaseCheckGridForm.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.BaseLookUpForm.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.DftrPlgForm.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.EntriAlamatForm.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.EntriPemohonForm.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.FilterEntry.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.frmTimer.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.Header.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.Resources.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.PicClick.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.TreeData.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.TreeInfo.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\ControlBase.vbproj.GenerateResource.Cache
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll.licenses
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.ControlPrototype.pdb
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\EMap.ControlPrototype.dll
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\EMap.ControlPrototype.pdb
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\CrystalDecisions.Shared.dll
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\GlobalClassV2.dll
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\XmlHelper.dll
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\C1.C1Excel.2.dll
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\C1.C1Excel.2.xml
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\GlobalClassV2.pdb
+D:\Gresik\2013\Finger Analisys\ControlPrototype\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\ResolveAssemblyReference.cache
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.BaseCheckGridForm.resources
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.BaseLookUpForm.resources
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.DftrPlgForm.resources
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.EntriAlamatForm.resources
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.EntriPemohonForm.resources
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.FilterEntry.resources
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.frmTimer.resources
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.Header.resources
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.Resources.resources
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.PicClick.resources
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.TreeData.resources
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.TreeInfo.resources
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\ControlBase.vbproj.GenerateResource.Cache
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll.licenses
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.ControlPrototype.dll
+D:\Gresik\2013\Finger Analisys\ControlPrototype\obj\Debug\EMap.ControlPrototype.pdb

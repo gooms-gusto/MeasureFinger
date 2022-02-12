@@ -1,0 +1,44 @@
+D:\_Dokumen\_Side Job\2013\MeasureFinger\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\MeasureFinger\DAL\bin\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\DAL\bin\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\DAL\obj\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\DAL\obj\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\DAL\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\DAL\bin\Debug\DAL.dll
+D:\Gresik\SideJob\2013\MeasureFinger\DAL\bin\Debug\DAL.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Gresik\SideJob\2013\MeasureFinger\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Gresik\SideJob\2013\MeasureFinger\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Gresik\SideJob\2013\MeasureFinger\DAL\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Gresik\SideJob\2013\MeasureFinger\DAL\obj\Debug\DAL.dll
+D:\Gresik\SideJob\2013\MeasureFinger\DAL\obj\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\DAL\bin\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\DAL\bin\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\Finger Analisys\DAL\obj\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\DAL\obj\Debug\DAL.pdb
+D:\Gresik\2013\Finger Analisys\DAL\bin\Debug\DAL.dll
+D:\Gresik\2013\Finger Analisys\DAL\bin\Debug\DAL.pdb
+D:\Gresik\2013\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Gresik\2013\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Gresik\2013\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Gresik\2013\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Gresik\2013\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Gresik\2013\Finger Analisys\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Gresik\2013\Finger Analisys\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Gresik\2013\Finger Analisys\DAL\obj\Debug\DAL.dll
+D:\Gresik\2013\Finger Analisys\DAL\obj\Debug\DAL.pdb

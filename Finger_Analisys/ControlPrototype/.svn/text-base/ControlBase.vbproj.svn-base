@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8140695C-1DE5-4A0B-B9A0-14A0949CA9B2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>EMap</RootNamespace>
+    <AssemblyName>EMap.ControlPrototype</AssemblyName>
+    <MyType>Windows</MyType>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>41998,41999,42004,42016,42017,42018,42019,42020,42021,42022,42024,42025,42026,42029,42030,42031,42032,42036,42104,42105,42106,42107,42108,42109,42353,42354,42355</NoWarn>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>41998,41999,42004,42016,42017,42018,42019,42020,42021,42022,42024,42025,42026,42029,42030,42031,42032,42036,42104,42105,42106,42107,42108,42109,42353,42354,42355</NoWarn>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Common, Version=1.0.20031.116, Culture=neutral, PublicKeyToken=e272bb32d11b1948">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\C1.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.2, Version=2.6.20072.347, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\dll\C1.Win.C1FlexGrid.2.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Input, Version=1.0.20071.32004, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\C1.Win.C1Input.dll</HintPath>
+    </Reference>
+    <Reference Include="codevendor.controls, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dll\codevendor.controls.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DL_EMap, Version=2.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dll\DL_EMap.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.IAORDP2, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dll\Interop.IAORDP2.dll</HintPath>
+    </Reference>
+    <Reference Include="PinkieControls, Version=1.0.3020.28216, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dll\PinkieControls.dll</HintPath>
+    </Reference>
+    <Reference Include="Renderers, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dll\Renderers.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseCheckGridForm.Designer.vb">
+      <DependentUpon>BaseCheckGridForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BaseCheckGridForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseLookUpForm.Designer.vb">
+      <DependentUpon>BaseLookUpForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BaseLookUpForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ButtonV.Designer.vb">
+      <DependentUpon>ButtonV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ButtonV.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DDController.vb" />
+    <Compile Include="DftrPlgForm.Designer.vb">
+      <DependentUpon>DftrPlgForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DftrPlgForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EntriAlamatForm.Designer.vb">
+      <DependentUpon>EntriAlamatForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EntriAlamatForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDMaster.Designer.vb">
+      <DependentUpon>DDMaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DDMaster.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EntriPemohonForm.Designer.vb">
+      <DependentUpon>EntriPemohonForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EntriPemohonForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExecutionTimer.vb" />
+    <Compile Include="FilterEntry.Designer.vb">
+      <DependentUpon>FilterEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FilterEntry.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmTimer.Designer.vb">
+      <DependentUpon>frmTimer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Globals.vb" />
+    <Compile Include="GotFlashControl.vb" />
+    <Compile Include="GotFlashTSButton.vb" />
+    <Compile Include="GotFlashTSVButton.vb" />
+    <Compile Include="Header.Designer.vb">
+      <DependentUpon>Header.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Header.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IAOCheckGrid.Designer.vb">
+      <DependentUpon>IAOCheckGrid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IAOCheckGrid.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PicClick.Designer.vb">
+      <DependentUpon>PicClick.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PicClick.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ToolStripV.Designer.vb">
+      <DependentUpon>ToolStripV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ToolStripV.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TreeData.Designer.vb">
+      <DependentUpon>TreeData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TreeData.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TreeInfo.Designer.vb">
+      <DependentUpon>TreeInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TreeInfo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BaseCheckGridForm.resx">
+      <DependentUpon>BaseCheckGridForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseLookUpForm.resx">
+      <DependentUpon>BaseLookUpForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DftrPlgForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DftrPlgForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EntriAlamatForm.resx">
+      <DependentUpon>EntriAlamatForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EntriPemohonForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EntriPemohonForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilterEntry.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FilterEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTimer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Header.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Header.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PicClick.resx">
+      <DependentUpon>PicClick.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TreeData.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TreeData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TreeInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TreeInfo.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{94E38DFF-614B-4CBD-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BAWAH2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\akhir1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atas1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\awal2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\15.png" />
+    <None Include="Resources\AccountHeader1.jpg" />
+    <None Include="Resources\AccountHeader.jpg" />
+    <None Include="Resources\Header.jpg" />
+    <None Include="Resources\panahdown.png" />
+    <None Include="Resources\eMap_Header1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GlobalClass\GlobalClassV2.vbproj">
+      <Project>{8BDB4849-D2D3-4CEB-873F-6F97118C8BD0}</Project>
+      <Name>GlobalClassV2</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

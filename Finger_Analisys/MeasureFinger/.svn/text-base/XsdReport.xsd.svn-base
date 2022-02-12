@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XsdReport" targetNamespace="http://tempuri.org/XsdReport.xsd" xmlns:mstns="http://tempuri.org/XsdReport.xsd" xmlns="http://tempuri.org/XsdReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="XsdReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="XsdReport" msprop:Generator_UserDSName="XsdReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Gambar" msprop:Generator_TableClassName="GambarDataTable" msprop:Generator_TableVarName="tableGambar" msprop:Generator_TablePropName="Gambar" msprop:Generator_RowDeletingName="GambarRowDeleting" msprop:Generator_UserTableName="Gambar" msprop:Generator_RowChangingName="GambarRowChanging" msprop:Generator_RowEvHandlerName="GambarRowChangeEventHandler" msprop:Generator_RowDeletedName="GambarRowDeleted" msprop:Generator_RowEvArgName="GambarRowChangeEvent" msprop:Generator_RowChangedName="GambarRowChanged" msprop:Generator_RowClassName="GambarRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="R1" msprop:Generator_ColumnVarNameInTable="columnR1" msprop:Generator_ColumnPropNameInRow="R1" msprop:Generator_ColumnPropNameInTable="R1Column" msprop:Generator_UserColumnName="R1" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="R2" msprop:Generator_ColumnVarNameInTable="columnR2" msprop:Generator_ColumnPropNameInRow="R2" msprop:Generator_ColumnPropNameInTable="R2Column" msprop:Generator_UserColumnName="R2" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="R3" msprop:Generator_ColumnVarNameInTable="columnR3" msprop:Generator_ColumnPropNameInRow="R3" msprop:Generator_ColumnPropNameInTable="R3Column" msprop:Generator_UserColumnName="R3" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="R4" msprop:Generator_ColumnVarNameInTable="columnR4" msprop:Generator_ColumnPropNameInRow="R4" msprop:Generator_ColumnPropNameInTable="R4Column" msprop:Generator_UserColumnName="R4" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="R5" msprop:Generator_ColumnVarNameInTable="columnR5" msprop:Generator_ColumnPropNameInRow="R5" msprop:Generator_ColumnPropNameInTable="R5Column" msprop:Generator_UserColumnName="R5" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="L1" msprop:Generator_ColumnVarNameInTable="columnL1" msprop:Generator_ColumnPropNameInRow="L1" msprop:Generator_ColumnPropNameInTable="L1Column" msprop:Generator_UserColumnName="L1" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="L2" msprop:Generator_ColumnVarNameInTable="columnL2" msprop:Generator_ColumnPropNameInRow="L2" msprop:Generator_ColumnPropNameInTable="L2Column" msprop:Generator_UserColumnName="L2" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="L3" msprop:Generator_ColumnVarNameInTable="columnL3" msprop:Generator_ColumnPropNameInRow="L3" msprop:Generator_ColumnPropNameInTable="L3Column" msprop:Generator_UserColumnName="L3" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="L4" msprop:Generator_ColumnVarNameInTable="columnL4" msprop:Generator_ColumnPropNameInRow="L4" msprop:Generator_ColumnPropNameInTable="L4Column" msprop:Generator_UserColumnName="L4" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="L5" msprop:Generator_ColumnVarNameInTable="columnL5" msprop:Generator_ColumnPropNameInRow="L5" msprop:Generator_ColumnPropNameInTable="L5Column" msprop:Generator_UserColumnName="L5" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

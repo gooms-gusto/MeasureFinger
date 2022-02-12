@@ -1,0 +1,7 @@
+Cara installasi finger analysis ver 1.0 Rev.1
+
+1. download dari alamat 
+2. install Dotnet Fx 4.0
+3. install CRRuntime_32bit_13_0_4.msi
+4. install Setup Finger Analysis Ver 1.0.msi
+5. Silahkan melakukan register lisensi.

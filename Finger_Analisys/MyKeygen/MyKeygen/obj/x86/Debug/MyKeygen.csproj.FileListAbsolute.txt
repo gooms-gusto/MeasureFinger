@@ -1,0 +1,9 @@
+D:\_Dokumen\_Side Job\2013\repository\MyKeygen\MyKeygen\bin\Debug\MyKeygen.exe
+D:\_Dokumen\_Side Job\2013\repository\MyKeygen\MyKeygen\bin\Debug\MyKeygen.pdb
+D:\_Dokumen\_Side Job\2013\repository\MyKeygen\MyKeygen\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\repository\MyKeygen\MyKeygen\obj\x86\Debug\MyKeygen.Form1.resources
+D:\_Dokumen\_Side Job\2013\repository\MyKeygen\MyKeygen\obj\x86\Debug\MyKeygen.Properties.Resources.resources
+D:\_Dokumen\_Side Job\2013\repository\MyKeygen\MyKeygen\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\_Dokumen\_Side Job\2013\repository\MyKeygen\MyKeygen\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\_Dokumen\_Side Job\2013\repository\MyKeygen\MyKeygen\obj\x86\Debug\MyKeygen.exe
+D:\_Dokumen\_Side Job\2013\repository\MyKeygen\MyKeygen\obj\x86\Debug\MyKeygen.pdb

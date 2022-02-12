@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[ControlPrototype.vbproj]
+SCC_Aux_Path = "\\10.25.1.222\VSS\"
+SCC_Project_Name = "$/Bali/VersiGab/ControlPrototype", ZXFAAAAA
+
+[ControlBase.vbproj]
+SCC_Aux_Path = "\\192.168.0.6\vss emap\"
+SCC_Project_Name = "$/eMap Bali v3/Project/Control Prototype/ControlPrototype/ControlPrototype", QVIAAAAA

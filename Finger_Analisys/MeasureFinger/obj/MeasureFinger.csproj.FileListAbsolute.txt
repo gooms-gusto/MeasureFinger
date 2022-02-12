@@ -1,0 +1,192 @@
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\MeasureFinger.exe
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\MeasureFinger.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.Form1.resources
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.Properties.Resources.resources
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.csproj.GenerateResource.Cache
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.exe
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.FormMainMenu.resources
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\C1.Win.C1Input.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\codevendor.controls.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\DL_EMap.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\EMap.ControlPrototype.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\GlobalClassV2.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\PinkieControls.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\Renderers.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\XmlHelper.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\C1.C1Excel.2.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\C1.Common.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\C1.C1Excel.2.xml
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\GlobalClassV2.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\EMap.ControlPrototype.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\CUTE_CONTROL.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\CUTE_CONTROL.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.NewData.resources
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.exe.licenses
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\MeasureFinger.exe.config
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.FormBrowseFinger.resources
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.FORM_ENTRY_PASIEN.resources
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\MeasureFinger.exe.config
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.exe
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\MeasureFinger.exe
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\MeasureFinger.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\C1.Win.C1Input.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\codevendor.controls.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\CUTE_CONTROL.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\DAL.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\DL_EMap.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\EMap.ControlPrototype.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\GlobalClassV2.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\PinkieControls.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\Renderers.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\XmlHelper.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\C1.C1Excel.2.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\C1.Common.dll
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\DAL.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\EMap.ControlPrototype.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\CUTE_CONTROL.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\C1.C1Excel.2.xml
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\GlobalClassV2.pdb
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\obj\Debug\ResolveAssemblyReference.cache
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.Form1.resources
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.FormBrowseFinger.resources
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.FormMainMenu.resources
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.FORM_ENTRY_PASIEN.resources
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.NewData.resources
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.Properties.Resources.resources
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.csproj.GenerateResource.Cache
+D:\Gresik\SideJob\2013\MeasureFinger\MeasureFinger\obj\Debug\MeasureFinger.exe.licenses
+D:\_Dokumen\_Side Job\2013\MeasureFinger\bin\Debug\MeasureFinger.exe.config
+D:\_Dokumen\_Side Job\2013\MeasureFinger\obj\Debug\MeasureFinger.exe
+D:\_Dokumen\_Side Job\2013\MeasureFinger\obj\Debug\MeasureFinger.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\bin\Debug\MeasureFinger.exe
+D:\_Dokumen\_Side Job\2013\MeasureFinger\bin\Debug\MeasureFinger.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\bin\Debug\XmlHelper.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\bin\Debug\C1.C1Excel.2.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\bin\Debug\C1.Common.dll
+D:\_Dokumen\_Side Job\2013\MeasureFinger\bin\Debug\C1.C1Excel.2.xml
+D:\_Dokumen\_Side Job\2013\MeasureFinger\bin\Debug\GlobalClassV2.pdb
+D:\_Dokumen\_Side Job\2013\MeasureFinger\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\_Dokumen\_Side Job\2013\MeasureFinger\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\MeasureFinger\obj\Debug\MeasureFinger.Form1.resources
+D:\_Dokumen\_Side Job\2013\MeasureFinger\obj\Debug\MeasureFinger.FormBrowseFinger.resources
+D:\_Dokumen\_Side Job\2013\MeasureFinger\obj\Debug\MeasureFinger.FormMainMenu.resources
+D:\_Dokumen\_Side Job\2013\MeasureFinger\obj\Debug\MeasureFinger.FORM_ENTRY_PASIEN.resources
+D:\_Dokumen\_Side Job\2013\MeasureFinger\obj\Debug\MeasureFinger.NewData.resources
+D:\_Dokumen\_Side Job\2013\MeasureFinger\obj\Debug\MeasureFinger.Properties.Resources.resources
+D:\_Dokumen\_Side Job\2013\MeasureFinger\obj\Debug\MeasureFinger.csproj.GenerateResource.Cache
+D:\_Dokumen\_Side Job\2013\MeasureFinger\obj\Debug\MeasureFinger.exe.licenses
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\MeasureFinger.exe.config
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.exe
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\MeasureFinger.exe
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\MeasureFinger.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\C1.Win.C1Input.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\codevendor.controls.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\CUTE_CONTROL.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\DL_EMap.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\EMap.ControlPrototype.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\GlobalClassV2.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\PinkieControls.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\Renderers.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\XmlHelper.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\C1.C1Excel.2.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\C1.Common.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\EMap.ControlPrototype.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\CUTE_CONTROL.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\C1.C1Excel.2.xml
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\GlobalClassV2.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.Form1.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.FormBrowseFinger.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.FormMainMenu.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.FORM_ENTRY_PASIEN.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.NewData.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.Properties.Resources.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.csproj.GenerateResource.Cache
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.exe.licenses
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\MeasureFinger.exe.config
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.exe
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.pdb
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\MeasureFinger.exe
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\MeasureFinger.pdb
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\C1.Win.C1Input.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\codevendor.controls.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\CUTE_CONTROL.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\DAL.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\DL_EMap.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\EMap.ControlPrototype.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\GlobalClassV2.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\PinkieControls.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\Renderers.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\XmlHelper.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\C1.C1Excel.2.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\C1.Common.dll
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\DAL.pdb
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\EMap.ControlPrototype.pdb
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\CUTE_CONTROL.pdb
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\C1.C1Excel.2.xml
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\GlobalClassV2.pdb
+D:\Gresik\2013\Finger Analisys\MeasureFinger\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\ResolveAssemblyReference.cache
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.Form1.resources
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.FormBrowseFinger.resources
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.FormMainMenu.resources
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.FORM_ENTRY_PASIEN.resources
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.NewData.resources
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.Properties.Resources.resources
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.csproj.GenerateResource.Cache
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.exe.licenses
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.FORM_PASIEN.resources
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.FORM_ANALISA_SIDIK.resources
+D:\Gresik\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.FORM_UKUR.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.FORM_ANALISA_SIDIK.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.FORM_PASIEN.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.FORM_UKUR.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\MeasureFinger\obj\Debug\MeasureFinger.FormWizardJari.resources

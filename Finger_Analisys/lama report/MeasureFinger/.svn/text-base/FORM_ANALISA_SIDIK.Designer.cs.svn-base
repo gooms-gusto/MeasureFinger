@@ -1,0 +1,421 @@
+﻿namespace MeasureFinger
+{
+    partial class FORM_ANALISA_SIDIK
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FORM_ANALISA_SIDIK));
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this._DgSidikUkur = new C1.Win.C1FlexGrid.C1FlexGrid();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this._txtusiapasien = new System.Windows.Forms.TextBox();
+            this._txtnamapasien = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this._BtnTutup = new EMap.VistaButton();
+            this._L1 = new System.Windows.Forms.Label();
+            this._L2 = new System.Windows.Forms.Label();
+            this._L3 = new System.Windows.Forms.Label();
+            this._L4 = new System.Windows.Forms.Label();
+            this._L5 = new System.Windows.Forms.Label();
+            this._R1 = new System.Windows.Forms.Label();
+            this._R2 = new System.Windows.Forms.Label();
+            this._R3 = new System.Windows.Forms.Label();
+            this._R4 = new System.Windows.Forms.Label();
+            this._R5 = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this._DgSidikUkur)).BeginInit();
+            this.groupBox2.SuspendLayout();
+            this.panel1.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.label5);
+            this.groupBox1.Controls.Add(this.label6);
+            this.groupBox1.Controls.Add(this.label4);
+            this.groupBox1.Controls.Add(this.label3);
+            this.groupBox1.Controls.Add(this._DgSidikUkur);
+            this.groupBox1.ForeColor = System.Drawing.Color.White;
+            this.groupBox1.Location = new System.Drawing.Point(2, 374);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(533, 138);
+            this.groupBox1.TabIndex = 10;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Data Ukur (dalam ukuran mili meter)";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(362, 101);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(97, 13);
+            this.label5.TabIndex = 4;
+            this.label5.Text = "-> Sudah di analisa";
+            // 
+            // label6
+            // 
+            this.label6.BackColor = System.Drawing.Color.DarkOrchid;
+            this.label6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label6.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label6.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(321, 96);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(35, 22);
+            this.label6.TabIndex = 3;
+            this.label6.Tag = "l1";
+            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(136, 101);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(95, 13);
+            this.label4.TabIndex = 2;
+            this.label4.Text = "-> Belum di analisa";
+            // 
+            // label3
+            // 
+            this.label3.BackColor = System.Drawing.Color.DarkOrange;
+            this.label3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label3.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(95, 96);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(35, 22);
+            this.label3.TabIndex = 1;
+            this.label3.Tag = "l1";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // _DgSidikUkur
+            // 
+            this._DgSidikUkur.AllowDragging = C1.Win.C1FlexGrid.AllowDraggingEnum.None;
+            this._DgSidikUkur.AllowEditing = false;
+            this._DgSidikUkur.ColumnInfo = "10,1,0,0,0,95,Columns:5{AllowSorting:False;AllowDragging:False;AllowResizing:Fals" +
+                "e;AllowEditing:False;}\t";
+            this._DgSidikUkur.Location = new System.Drawing.Point(6, 19);
+            this._DgSidikUkur.Name = "_DgSidikUkur";
+            this._DgSidikUkur.Rows.DefaultSize = 19;
+            this._DgSidikUkur.Size = new System.Drawing.Size(507, 61);
+            this._DgSidikUkur.TabIndex = 0;
+            this._DgSidikUkur.VisualStyle = C1.Win.C1FlexGrid.VisualStyle.Office2007Silver;
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.label7);
+            this.groupBox2.Controls.Add(this._txtusiapasien);
+            this.groupBox2.Controls.Add(this._txtnamapasien);
+            this.groupBox2.Controls.Add(this.label2);
+            this.groupBox2.Controls.Add(this.label1);
+            this.groupBox2.ForeColor = System.Drawing.Color.White;
+            this.groupBox2.Location = new System.Drawing.Point(2, 5);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(505, 81);
+            this.groupBox2.TabIndex = 11;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Data Pasien";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(142, 43);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(38, 13);
+            this.label7.TabIndex = 4;
+            this.label7.Text = "Tahun";
+            // 
+            // _txtusiapasien
+            // 
+            this._txtusiapasien.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this._txtusiapasien.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this._txtusiapasien.Location = new System.Drawing.Point(82, 38);
+            this._txtusiapasien.Name = "_txtusiapasien";
+            this._txtusiapasien.ReadOnly = true;
+            this._txtusiapasien.Size = new System.Drawing.Size(54, 23);
+            this._txtusiapasien.TabIndex = 3;
+            // 
+            // _txtnamapasien
+            // 
+            this._txtnamapasien.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this._txtnamapasien.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this._txtnamapasien.Location = new System.Drawing.Point(82, 16);
+            this._txtnamapasien.Name = "_txtnamapasien";
+            this._txtnamapasien.ReadOnly = true;
+            this._txtnamapasien.Size = new System.Drawing.Size(369, 23);
+            this._txtnamapasien.TabIndex = 2;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(6, 40);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(28, 13);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Usia";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(6, 19);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(70, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Nama Pasien";
+            // 
+            // _BtnTutup
+            // 
+            this._BtnTutup.BackColor = System.Drawing.Color.Transparent;
+            this._BtnTutup.BackImage = null;
+            this._BtnTutup.ButtonText = "Tutup";
+            this._BtnTutup.Cursor = System.Windows.Forms.Cursors.Hand;
+            this._BtnTutup.Image = null;
+            this._BtnTutup.Location = new System.Drawing.Point(243, 518);
+            this._BtnTutup.Name = "_BtnTutup";
+            this._BtnTutup.Size = new System.Drawing.Size(85, 32);
+            this._BtnTutup.TabIndex = 12;
+            this._BtnTutup.Click += new System.EventHandler(this._BtnTutup_Click);
+            // 
+            // _L1
+            // 
+            this._L1.BackColor = System.Drawing.Color.DarkOrange;
+            this._L1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this._L1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this._L1.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this._L1.Location = new System.Drawing.Point(217, 85);
+            this._L1.Name = "_L1";
+            this._L1.Size = new System.Drawing.Size(35, 22);
+            this._L1.TabIndex = 0;
+            this._L1.Tag = "l1";
+            this._L1.Text = "L1";
+            this._L1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // _L2
+            // 
+            this._L2.BackColor = System.Drawing.Color.DarkOrange;
+            this._L2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this._L2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this._L2.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this._L2.Location = new System.Drawing.Point(173, 10);
+            this._L2.Name = "_L2";
+            this._L2.Size = new System.Drawing.Size(35, 22);
+            this._L2.TabIndex = 1;
+            this._L2.Tag = "l2";
+            this._L2.Text = "L2";
+            this._L2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // _L3
+            // 
+            this._L3.BackColor = System.Drawing.Color.DarkOrange;
+            this._L3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this._L3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this._L3.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this._L3.Location = new System.Drawing.Point(92, 9);
+            this._L3.Name = "_L3";
+            this._L3.Size = new System.Drawing.Size(35, 22);
+            this._L3.TabIndex = 2;
+            this._L3.Tag = "l3";
+            this._L3.Text = "L3";
+            this._L3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // _L4
+            // 
+            this._L4.BackColor = System.Drawing.Color.DarkOrange;
+            this._L4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this._L4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this._L4.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this._L4.Location = new System.Drawing.Point(36, 44);
+            this._L4.Name = "_L4";
+            this._L4.Size = new System.Drawing.Size(45, 22);
+            this._L4.TabIndex = 3;
+            this._L4.Tag = "l4";
+            this._L4.Text = "L4";
+            this._L4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // _L5
+            // 
+            this._L5.BackColor = System.Drawing.Color.DarkOrange;
+            this._L5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this._L5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this._L5.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this._L5.Location = new System.Drawing.Point(12, 109);
+            this._L5.Name = "_L5";
+            this._L5.Size = new System.Drawing.Size(35, 22);
+            this._L5.TabIndex = 4;
+            this._L5.Tag = "l5";
+            this._L5.Text = "L5";
+            this._L5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // _R1
+            // 
+            this._R1.BackColor = System.Drawing.Color.DarkOrange;
+            this._R1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this._R1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this._R1.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this._R1.Location = new System.Drawing.Point(268, 85);
+            this._R1.Name = "_R1";
+            this._R1.Size = new System.Drawing.Size(35, 22);
+            this._R1.TabIndex = 5;
+            this._R1.Tag = "r1";
+            this._R1.Text = "R1";
+            this._R1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // _R2
+            // 
+            this._R2.BackColor = System.Drawing.Color.DarkOrange;
+            this._R2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this._R2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this._R2.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this._R2.Location = new System.Drawing.Point(318, 9);
+            this._R2.Name = "_R2";
+            this._R2.Size = new System.Drawing.Size(35, 22);
+            this._R2.TabIndex = 6;
+            this._R2.Tag = "r2";
+            this._R2.Text = "R2";
+            this._R2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // _R3
+            // 
+            this._R3.BackColor = System.Drawing.Color.DarkOrange;
+            this._R3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this._R3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this._R3.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this._R3.Location = new System.Drawing.Point(368, 10);
+            this._R3.Name = "_R3";
+            this._R3.Size = new System.Drawing.Size(35, 22);
+            this._R3.TabIndex = 7;
+            this._R3.Tag = "r3";
+            this._R3.Text = "R3";
+            this._R3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // _R4
+            // 
+            this._R4.BackColor = System.Drawing.Color.DarkOrange;
+            this._R4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this._R4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this._R4.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this._R4.Location = new System.Drawing.Point(416, 28);
+            this._R4.Name = "_R4";
+            this._R4.Size = new System.Drawing.Size(35, 22);
+            this._R4.TabIndex = 8;
+            this._R4.Tag = "r4";
+            this._R4.Text = "R4";
+            this._R4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // _R5
+            // 
+            this._R5.BackColor = System.Drawing.Color.DarkOrange;
+            this._R5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this._R5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this._R5.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this._R5.Location = new System.Drawing.Point(450, 81);
+            this._R5.Name = "_R5";
+            this._R5.Size = new System.Drawing.Size(35, 22);
+            this._R5.TabIndex = 9;
+            this._R5.Tag = "r5";
+            this._R5.Text = "R5";
+            this._R5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // panel1
+            // 
+            this.panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel1.BackgroundImage")));
+            this.panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel1.Controls.Add(this._R5);
+            this.panel1.Controls.Add(this._R4);
+            this.panel1.Controls.Add(this._R3);
+            this.panel1.Controls.Add(this._R2);
+            this.panel1.Controls.Add(this._R1);
+            this.panel1.Controls.Add(this._L5);
+            this.panel1.Controls.Add(this._L4);
+            this.panel1.Controls.Add(this._L3);
+            this.panel1.Controls.Add(this._L2);
+            this.panel1.Controls.Add(this._L1);
+            this.panel1.Location = new System.Drawing.Point(11, 92);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(505, 276);
+            this.panel1.TabIndex = 9;
+            // 
+            // FORM_ANALISA_SIDIK
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.DarkRed;
+            this.ClientSize = new System.Drawing.Size(533, 562);
+            this.ControlBox = false;
+            this.Controls.Add(this._BtnTutup);
+            this.Controls.Add(this.groupBox2);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.Name = "FORM_ANALISA_SIDIK";
+            this.ShowInTaskbar = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "ANALISA SIDIK JARI";
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this._DgSidikUkur)).EndInit();
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
+            this.panel1.ResumeLayout(false);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.GroupBox groupBox1;
+        private C1.Win.C1FlexGrid.C1FlexGrid _DgSidikUkur;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox _txtusiapasien;
+        private System.Windows.Forms.TextBox _txtnamapasien;
+        private EMap.VistaButton _BtnTutup;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label _L1;
+        private System.Windows.Forms.Label _L2;
+        private System.Windows.Forms.Label _L3;
+        private System.Windows.Forms.Label _L4;
+        private System.Windows.Forms.Label _L5;
+        private System.Windows.Forms.Label _R1;
+        private System.Windows.Forms.Label _R2;
+        private System.Windows.Forms.Label _R3;
+        private System.Windows.Forms.Label _R4;
+        private System.Windows.Forms.Label _R5;
+        private System.Windows.Forms.Panel panel1;
+    }
+}

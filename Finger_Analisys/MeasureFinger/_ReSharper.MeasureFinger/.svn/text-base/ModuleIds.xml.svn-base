@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="0BF0A251-76E1-40F8-BAFD-2B545B974BE3" ModuleId="DAL" />
+  <Module PersistentId="A54E79A9-CDDB-4CCB-B746-8FCF09C0C4C5" ModuleId="MeasureFinger" />
+  <Module PersistentId="D13DE490-A473-4127-B689-48AF41878DBD" ModuleId="CUTE_CONTROL" />
+  <Module PersistentId="8140695C-1DE5-4A0B-B9A0-14A0949CA9B2" ModuleId="ControlBase" />
+  <Module PersistentId="8BDB4849-D2D3-4CEB-873F-6F97118C8BD0" ModuleId="GlobalClassV2" />
+  <Module PersistentId="7BBBA398-D231-430C-8856-F52B5734B86B" ModuleId="Hitungan" />
+</Modules>

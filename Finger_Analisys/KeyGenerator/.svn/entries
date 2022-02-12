@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://ak-pc:8443/svn/Finger_Analisys/KeyGenerator
+https://ak-pc:8443/svn/Finger_Analisys
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+b7d32ad4-daa8-fc47-bee5-c3c41dc20e9e
+
+Form1.resx
+file
+
+
+
+add
+
+Form1.Designer.cs
+file
+
+
+
+add
+
+Form1.cs
+file
+
+
+
+add
+
+Program.cs
+file
+
+
+
+add
+
+Properties
+dir
+
+
+
+add
+
+KeyGenerator.csproj
+file
+
+
+
+add
+

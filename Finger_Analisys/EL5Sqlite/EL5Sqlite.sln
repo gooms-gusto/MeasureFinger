@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EL5Sqlite", "EL5Sqlite\EL5Sqlite.csproj", "{C3E6BADA-AD9B-4DD6-8030-3A30324C3EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntLibContrib.Data.SqLite", "SqlLite\EntLibContrib.Data.SqLite.csproj", "{40438AB6-0B3D-4CE1-A451-6CF96BF3D24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E6BADA-AD9B-4DD6-8030-3A30324C3EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E6BADA-AD9B-4DD6-8030-3A30324C3EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E6BADA-AD9B-4DD6-8030-3A30324C3EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E6BADA-AD9B-4DD6-8030-3A30324C3EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40438AB6-0B3D-4CE1-A451-6CF96BF3D24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40438AB6-0B3D-4CE1-A451-6CF96BF3D24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40438AB6-0B3D-4CE1-A451-6CF96BF3D24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40438AB6-0B3D-4CE1-A451-6CF96BF3D24B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,59 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+
+namespace MeasureFinger
+{
+    public partial class Form1 : Form
+    {
+        Point firstPoint;
+        Point secondPoint;
+        public Form1()
+        {
+            InitializeComponent();
+            
+        }
+
+        public double DistanceBetweenPoints(Point Point1, Point Point2)
+        {
+            return (Math.Sqrt(Math.Pow((Point1.X - Point2.X), 2) + Math.Pow((Point1.Y - Point2.Y), 2))) * 0.264583;
+        }
+
+        private void panel1_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (this.firstPoint.IsEmpty==true && this.secondPoint.IsEmpty==true)
+            {
+                this.firstPoint = e.Location;
+                return;
+            }
+
+            if (this.secondPoint.IsEmpty==true && this.firstPoint.IsEmpty==false)
+            {
+                this.secondPoint = e.Location;
+            }
+
+            panel1.Invalidate();
+
+            if (firstPoint.IsEmpty==false   && secondPoint.IsEmpty==false  )
+              label1.Text= DistanceBetweenPoints(firstPoint, secondPoint).ToString() ;
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+            Pen pn = new Pen(Color.Blue, 1);
+            e.Graphics.DrawLine(pn, firstPoint, secondPoint);
+           
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+
+    
+}

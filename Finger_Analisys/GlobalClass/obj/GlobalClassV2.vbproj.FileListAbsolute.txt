@@ -1,0 +1,108 @@
+D:\ASB\Project\emap\MSK\GlobalClass\bin\GlobalClassV2.dll
+D:\ASB\Project\emap\MSK\GlobalClass\bin\XmlHelper.dll
+D:\ASB\Project\emap\MSK\GlobalClass\bin\Interop.IAORDP2.dll
+D:\ASB\Project\emap\MSK\GlobalClass\bin\Interop.MD5Dll.dll
+D:\ASB\Project\emap\MSK\GlobalClass\bin\Interop.RegistryClass.dll
+D:\ASB\Project\emap\MSK\GlobalClass\bin\Interop.RIJNDAEL.dll
+D:\ASB\Project\emap\MSK\GlobalClass\bin\Interop.SecmanUtil2.dll
+D:\ASB\Project\emap\MSK\GlobalClass\obj\Release\ResolveAssemblyReference.cache
+D:\ASB\Project\emap\MSK\GlobalClass\obj\Release\Interop.IAORDP2.dll
+D:\ASB\Project\emap\MSK\GlobalClass\obj\Release\Interop.MD5Dll.dll
+D:\ASB\Project\emap\MSK\GlobalClass\obj\Release\Interop.RegistryClass.dll
+D:\ASB\Project\emap\MSK\GlobalClass\obj\Release\Interop.RIJNDAEL.dll
+D:\ASB\Project\emap\MSK\GlobalClass\obj\Release\Interop.SecmanUtil2.dll
+D:\ASB\Project\emap\MSK\GlobalClass\obj\Release\GlobalClassV2.vbproj.ResolveComReference.cache
+D:\ASB\Project\emap\MSK\GlobalClass\obj\Release\GlobalClassV2.FrmKonfirmasi.resources
+D:\ASB\Project\emap\MSK\GlobalClass\obj\Release\GlobalClassV2.Resources.resources
+D:\ASB\Project\emap\MSK\GlobalClass\obj\Release\GlobalClassV2.vbproj.GenerateResource.Cache
+D:\ASB\Project\emap\MSK\GlobalClass\obj\Release\GlobalClassV2.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\obj\Release\ResolveAssemblyReference.cache
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\obj\Release\Interop.IAORDP2.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\obj\Release\Interop.MD5Dll.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\obj\Release\Interop.SecmanUtil2.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\obj\Release\GlobalClassV2.vbproj.ResolveComReference.cache
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\obj\Release\GlobalClassV2.FrmKonfirmasi.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\obj\Release\GlobalClassV2.Resources.resources
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\obj\Release\GlobalClassV2.vbproj.GenerateResource.Cache
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\obj\Release\GlobalClassV2.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\obj\Release\Interop.RegistryClass.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\bin\GlobalClassV2.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\bin\C1.C1Excel.2.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\bin\XmlHelper.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\bin\C1.C1Excel.2.xml
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\bin\Interop.IAORDP2.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\bin\Interop.MD5Dll.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\bin\Interop.RegistryClass.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\bin\Interop.RIJNDAEL.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\bin\Interop.SecmanUtil2.dll
+D:\kencono\MSK dekstop\ManajemenStandartKonstruksi\GlobalClass\obj\Release\Interop.RIJNDAEL.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\obj\Debug\Interop.IAORDP2.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\obj\Debug\Interop.SecmanUtil2.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\obj\Debug\GlobalClassV2.vbproj.ResolveComReference.cache
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\obj\Debug\GlobalClassV2.FrmKonfirmasi.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\obj\Debug\GlobalClassV2.Resources.resources
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\obj\Debug\GlobalClassV2.vbproj.GenerateResource.Cache
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\obj\Debug\Interop.MD5Dll.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\obj\Debug\Interop.RIJNDAEL.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\bin\GlobalClassV2.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\bin\GlobalClassV2.pdb
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\bin\GlobalClassV2.tlb
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\bin\C1.C1Excel.2.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\bin\C1.C1Excel.2.xml
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\bin\Interop.IAORDP2.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\bin\Interop.MD5Dll.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\bin\Interop.RegistryClass.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\bin\Interop.RIJNDAEL.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\bin\Interop.SecmanUtil2.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\obj\Debug\Interop.RegistryClass.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\obj\Debug\GlobalClassV2.dll
+D:\_Dokumen\_Gresik\DekstopProject\SwadayaSI\GlobalClass\obj\Debug\GlobalClassV2.pdb
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\GlobalClass\bin\GlobalClassV2.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\GlobalClass\bin\GlobalClassV2.pdb
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\GlobalClass\bin\GlobalClassV2.tlb
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\GlobalClass\bin\C1.C1Excel.2.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\GlobalClass\bin\C1.C1Excel.2.xml
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\GlobalClass\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\GlobalClass\obj\Debug\GlobalClassV2.vbproj.ResolveComReference.cache
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\GlobalClass\obj\Debug\GlobalClassV2.FrmKonfirmasi.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\GlobalClass\obj\Debug\GlobalClassV2.Resources.resources
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\GlobalClass\obj\Debug\GlobalClassV2.vbproj.GenerateResource.Cache
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\GlobalClass\obj\Debug\GlobalClassV2.dll
+D:\_Dokumen\_Gresik\SWADAYA SI DEKSTOP\SOURCE CODE\GlobalClass\obj\Debug\GlobalClassV2.pdb
+D:\_Dokumen\_Gresik\EXTERNAL\SC\GlobalClass\bin\GlobalClassV2.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\GlobalClass\bin\GlobalClassV2.pdb
+D:\_Dokumen\_Gresik\EXTERNAL\SC\GlobalClass\bin\GlobalClassV2.tlb
+D:\_Dokumen\_Gresik\EXTERNAL\SC\GlobalClass\bin\C1.C1Excel.2.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\GlobalClass\bin\C1.C1Excel.2.xml
+D:\_Dokumen\_Gresik\EXTERNAL\SC\GlobalClass\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Gresik\EXTERNAL\SC\GlobalClass\obj\Debug\GlobalClassV2.vbproj.ResolveComReference.cache
+D:\_Dokumen\_Gresik\EXTERNAL\SC\GlobalClass\obj\Debug\GlobalClassV2.FrmKonfirmasi.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\GlobalClass\obj\Debug\GlobalClassV2.Resources.resources
+D:\_Dokumen\_Gresik\EXTERNAL\SC\GlobalClass\obj\Debug\GlobalClassV2.vbproj.GenerateResource.Cache
+D:\_Dokumen\_Gresik\EXTERNAL\SC\GlobalClass\obj\Debug\GlobalClassV2.dll
+D:\_Dokumen\_Gresik\EXTERNAL\SC\GlobalClass\obj\Debug\GlobalClassV2.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\GlobalClass\obj\Debug\GlobalClassV2.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\GlobalClass\obj\Debug\GlobalClassV2.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\GlobalClass\bin\GlobalClassV2.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\GlobalClass\bin\GlobalClassV2.pdb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\GlobalClass\bin\GlobalClassV2.tlb
+D:\_Dokumen\_Side Job\2013\Finger Analisys\GlobalClass\bin\C1.C1Excel.2.dll
+D:\_Dokumen\_Side Job\2013\Finger Analisys\GlobalClass\bin\C1.C1Excel.2.xml
+D:\_Dokumen\_Side Job\2013\Finger Analisys\GlobalClass\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\Finger Analisys\GlobalClass\obj\Debug\GlobalClassV2.vbproj.ResolveComReference.cache
+D:\_Dokumen\_Side Job\2013\Finger Analisys\GlobalClass\obj\Debug\GlobalClassV2.FrmKonfirmasi.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\GlobalClass\obj\Debug\GlobalClassV2.Resources.resources
+D:\_Dokumen\_Side Job\2013\Finger Analisys\GlobalClass\obj\Debug\GlobalClassV2.vbproj.GenerateResource.Cache
+D:\Gresik\2013\Finger Analisys\GlobalClass\bin\GlobalClassV2.dll
+D:\Gresik\2013\Finger Analisys\GlobalClass\bin\GlobalClassV2.pdb
+D:\Gresik\2013\Finger Analisys\GlobalClass\bin\GlobalClassV2.tlb
+D:\Gresik\2013\Finger Analisys\GlobalClass\bin\C1.C1Excel.2.dll
+D:\Gresik\2013\Finger Analisys\GlobalClass\bin\C1.C1Excel.2.xml
+D:\Gresik\2013\Finger Analisys\GlobalClass\obj\Debug\ResolveAssemblyReference.cache
+D:\Gresik\2013\Finger Analisys\GlobalClass\obj\Debug\GlobalClassV2.vbproj.ResolveComReference.cache
+D:\Gresik\2013\Finger Analisys\GlobalClass\obj\Debug\GlobalClassV2.FrmKonfirmasi.resources
+D:\Gresik\2013\Finger Analisys\GlobalClass\obj\Debug\GlobalClassV2.Resources.resources
+D:\Gresik\2013\Finger Analisys\GlobalClass\obj\Debug\GlobalClassV2.vbproj.GenerateResource.Cache
+D:\Gresik\2013\Finger Analisys\GlobalClass\obj\Debug\GlobalClassV2.dll
+D:\Gresik\2013\Finger Analisys\GlobalClass\obj\Debug\GlobalClassV2.pdb

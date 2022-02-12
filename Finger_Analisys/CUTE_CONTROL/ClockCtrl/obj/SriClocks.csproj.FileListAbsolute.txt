@@ -1,0 +1,7 @@
+C:\Users\spagety_code\Downloads\Compressed\DigitalClockControl_src\ClockCtrl\bin\Debug\SriClocks.dll
+C:\Users\spagety_code\Downloads\Compressed\DigitalClockControl_src\ClockCtrl\bin\Debug\SriClocks.pdb
+C:\Users\spagety_code\Downloads\Compressed\DigitalClockControl_src\ClockCtrl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\spagety_code\Downloads\Compressed\DigitalClockControl_src\ClockCtrl\obj\Debug\SriClocks.DigitalClockCtrl.resources
+C:\Users\spagety_code\Downloads\Compressed\DigitalClockControl_src\ClockCtrl\obj\Debug\SriClocks.csproj.GenerateResource.Cache
+C:\Users\spagety_code\Downloads\Compressed\DigitalClockControl_src\ClockCtrl\obj\Debug\SriClocks.dll
+C:\Users\spagety_code\Downloads\Compressed\DigitalClockControl_src\ClockCtrl\obj\Debug\SriClocks.pdb

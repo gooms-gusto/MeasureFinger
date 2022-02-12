@@ -1,0 +1,18 @@
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Keygen\bin\Debug\keygen.exe
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Keygen\bin\Debug\keygen.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Keygen\bin\Debug\keygen.xml
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Keygen\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Keygen\obj\Debug\keygen.Form1.resources
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Keygen\obj\Debug\keygen.Resources.resources
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Keygen\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Keygen\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Keygen\obj\Debug\keygen.exe
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Keygen\obj\Debug\keygen.xml
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Keygen\obj\Debug\keygen.pdb
+D:\Gresik\SideJob\Revisi\Finger_Analisys\Keygen\obj\Debug\keygen.exe
+D:\Gresik\SideJob\Revisi\Finger_Analisys\Keygen\obj\Debug\keygen.xml
+D:\Gresik\SideJob\Revisi\Finger_Analisys\Keygen\obj\Debug\keygen.pdb
+D:\Gresik\SideJob\Revisi\Finger_Analisys\Keygen\obj\Debug\keygen.Form1.resources
+D:\Gresik\SideJob\Revisi\Finger_Analisys\Keygen\obj\Debug\keygen.Resources.resources
+D:\Gresik\SideJob\Revisi\Finger_Analisys\Keygen\obj\Debug\keygen.vbproj.GenerateResource.Cache
+D:\Gresik\SideJob\Revisi\Finger_Analisys\Keygen\obj\Debug\keygen.vbprojResolveAssemblyReference.cache

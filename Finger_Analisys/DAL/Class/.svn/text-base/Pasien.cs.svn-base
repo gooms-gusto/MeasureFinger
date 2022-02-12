@@ -1,0 +1,520 @@
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.OleDb;
+using System.Drawing;
+using System.Text;
+using Microsoft.Practices.EnterpriseLibrary;
+using Microsoft.Practices.EnterpriseLibrary.Common;
+using Microsoft.Practices.EnterpriseLibrary.Data;
+using System.Data.Common;
+using System.Configuration;
+using System.Text;
+using System.IO;
+using Microsoft.Practices.EnterpriseLibrary.Data.Sql;
+using log4net;
+[assembly: log4net.Config.XmlConfigurator(Watch = true)]
+namespace DAL
+{
+   public  class Pasien:IPasien
+   {
+       private Database db;
+       private StringBuilder _sql = new StringBuilder();
+       private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+       public Pasien()
+       {
+           try
+           {
+               db = DatabaseFactory.CreateDatabase();
+           }
+           catch (Exception ex)
+           {
+               log.Error("Error",ex);
+           }
+       }
+
+       public string _GenerateKodeID()
+       {
+           try
+           {
+               _sql.Length = 0;
+               _sql.Append(
+                   " SELECT NUM_ID_CNTR FROM TB_NUM_ID ");
+               DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+               string  Kode = "PSN" + db.ExecuteScalar(_command).ToString() ;
+
+               _sql.Length = 0;
+               if (string.IsNullOrEmpty(Kode))
+                   return "";
+               return Kode;
+           }
+           catch (Exception ex)
+           {
+               log.Error("Error", ex);
+           }
+           return "";
+       }
+
+       public string _GetIncrementKode()
+       {
+           try
+           {
+               _sql.Length = 0;
+               _sql.Append(
+                   " SELECT NUM_ID_CNTR FROM `TB_NUM_ID` ");
+
+               DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+               string Kode = db.ExecuteScalar(_command).ToString();
+               _sql.Length = 0;
+               if (string.IsNullOrEmpty(Kode))
+                   return "";
+               return Kode;
+           }
+           catch (Exception ex)
+           {
+               log.Error("Error", ex);
+           }
+           return "";
+       }
+
+       public void _UpdateKodePasien()
+       {
+         try
+         {
+             _sql.Length = 0;
+             _sql.Append(
+                 "UPDATE TB_NUM_ID SET NUM_ID_CNTR='" + (Convert.ToInt32(_GetIncrementKode()) + 1) + "'");
+
+             DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+             int _insert_record =db.ExecuteNonQuery(_command);
+         }
+         catch (Exception ex)
+         {
+             log.Error("Error", ex);
+         }
+       }
+
+       public void _InsertIDUkurFinger()
+       {
+           try
+           {
+               _sql.Length = 0;
+               _sql.Append(" INSERT INTO TB_UKUR_SIDIK (ID_PASIEN) VALUES ('" + _GenerateKodeID() + "')");
+               DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+               int _insert_record = db.ExecuteNonQuery(_command);
+           }
+           catch (Exception ex)
+           {
+               log.Error("Error", ex);
+           }
+       }
+
+       public void _InsertDominasiOtak()
+       {
+           try
+           {
+               _sql.Length = 0;
+               _sql.Append(" INSERT INTO TB_DOMINASI_OTAK (ID_PASIEN) VALUES ('" + _GenerateKodeID() + "')");
+               DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+               int _insert_record = db.ExecuteNonQuery(_command);
+           }
+           catch (Exception ex)
+           {
+               log.Error("Error", ex);
+           }
+       }
+
+       public void _InsertGayaBelajar()
+       {
+           try
+           {
+               _sql.Length = 0;
+               _sql.Append(" INSERT INTO TB_GAYA_BELAJAR (ID_PASIEN) VALUES ('" + _GenerateKodeID() + "')");
+               DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+               int _insert_record = db.ExecuteNonQuery(_command);
+           }
+           catch (Exception ex)
+           {
+               log.Error("Error", ex);
+           }
+       }
+
+       public void _InsertGayaKerja()
+       {
+           try
+           {
+               _sql.Length = 0;
+               _sql.Append(" INSERT INTO TB_GAYA_KERJA(ID_PASIEN) VALUES ('" + _GenerateKodeID() + "')");
+               DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+               int _insert_record = db.ExecuteNonQuery(_command);
+           }
+           catch (Exception ex)
+           {
+               log.Error("Error", ex);
+           }
+       }
+
+       public void _InsertKecenderunganBakat()
+       {
+           try
+           {
+               _sql.Length = 0;
+               _sql.Append(" INSERT INTO TB_KECENDERUNGAN_BAKAT(ID_PASIEN) VALUES ('" + _GenerateKodeID() + "')");
+               DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+               int _insert_record = db.ExecuteNonQuery(_command);
+           }
+           catch (Exception ex)
+           {
+               log.Error("Error", ex);
+           }
+       }
+
+
+
+
+
+       public bool _SimpanPasien(string NamaPasien, string UmurPasien, System.DateTime _tanggal_analisa,
+       string l1, string l2, string l3, string l4, string l5, string r1, string r2, string r3, string r4, string r5)
+       {
+         try
+         {
+                _sql.Length = 0;
+                _sql.Append(string.Format(
+                    " INSERT INTO TB_PASIEN (ID_PASIEN, TANGGAL_ANALISA, NAMA_PASI" +
+                    "EN, USIA,L1,L2,L3,L4,L5,R1,R2,R3,R4,R5) VALUES ('" +
+                    _GenerateKodeID() + "','" + _tanggal_analisa.ToString("dd/MM/yyyy") +
+                    "','" + NamaPasien + "','" + UmurPasien + "','{0}','{1}','{2}','{3}','{4}','{5}','{6}','{7}','{8}','{9}')", l1, l2, l3, l4, l5, r1, r2, r3, r4, r5));
+                DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+                int _insert_record = db.ExecuteNonQuery(_command);
+                if (_insert_record > 0)
+                {
+                    _InsertIDUkurFinger();
+                    _InsertDominasiOtak();
+                    _InsertGayaKerja();
+                    _InsertGayaBelajar();
+                    _InsertKecenderunganBakat();
+                    _UpdateKodePasien();
+                    return true;
+                }
+          }
+         catch (Exception ex)
+         {
+             log.Error("Error", ex);
+         }
+          return false;
+       }
+
+       public string _GetKodePasien()
+       {
+            return _GenerateKodeID();
+       }
+
+       public DataTable _SelectPasien(string KodePasien, string NamaPasien)
+       {
+         try
+            {
+                _sql.Length = 0;
+                _sql.Append(
+                    " SELECT * FROM tb_pasien ");
+                
+                if (!string.IsNullOrEmpty(KodePasien))
+                    _sql.Append(" WHERE Ucase(ID_PASIEN)='" + KodePasien.ToUpper() + "' ");
+
+                if (!string.IsNullOrEmpty(NamaPasien)) 
+                    _sql.Append(" WHERE Ucase(NAMA_PASIEN) like '" + NamaPasien.ToUpper() + "%' ");
+
+                DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+                DataTable _dataTable = db.ExecuteDataSet(_command).Tables[0];
+                return _dataTable;
+
+            }
+         catch (Exception ex)
+         {
+             log.Error("Error", ex);
+         }
+         return null;
+        }
+
+
+
+
+        public bool _UpdatePasien(string KodePasien, string NamaPasien, string UmurPasien, DateTime _tanggal_analisa, string l1, string l2, string l3, string l4, string l5, string r1, string r2, string r3, string r4, string r5)
+        {
+            try
+            {
+                _sql.Length = 0;
+                _sql.Append(
+                    " UPDATE TB_PASIEN SET NAMA_PASIEN='" + NamaPasien + "',");
+                _sql.Append(" USIA='" + UmurPasien + "',");
+                _sql.Append(" TANGGAL_ANALISA='" +_tanggal_analisa.ToString("dd/MM/yyyy")  + "',");
+                _sql.Append(" L1='" + l1 + "',");
+                _sql.Append(" L2='" + l2 + "',");
+                _sql.Append(" L3='" + l3 + "',");
+                _sql.Append(" L4='" + l4 + "',");
+                _sql.Append(" L5='" + l5 + "',");
+                _sql.Append(" R1='" + r1 + "',");
+                _sql.Append(" R2='" + r2 + "',");
+                _sql.Append(" R3='" + r3 + "',");
+                _sql.Append(" R5='" + r5 + "' ");
+                _sql.Append(" WHERE ID_PASIEN='" + KodePasien + "'");
+                DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+                int _insert_record = db.ExecuteNonQuery(_command);
+                if (_insert_record > 0)
+                {
+                    return true;
+                }
+            }
+            catch (Exception ex)
+            {
+                log.Error("Error", ex);
+            }
+            return false;
+        }
+
+
+
+        public bool _DeletePasien(string KodePasien)
+        {
+            try
+            {
+                _sql.Length = 0;
+                _sql.Append(" DELETE FROM TB_PASIEN WHERE ID_PASIEN='" + KodePasien + "'");
+                DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+                int _insert_record = db.ExecuteNonQuery(_command);
+                if (_insert_record > 0)
+                {
+                    _DeleteDataUkur(KodePasien);
+                    return true;
+                }
+            }
+            catch (Exception ex)
+            {
+                log.Error("Error", ex);
+            }
+
+            return false;
+
+        }
+
+       bool _DeleteDataUkur(string KodePasien)
+       {
+           try
+           {
+               _sql.Length = 0;
+               _sql.Append(" DELETE FROM TB_UKUR_SIDIK WHERE ID_PASIEN='" + KodePasien + "'");
+               DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+               int _insert_record = db.ExecuteNonQuery(_command);
+               return true;
+           }
+           catch (Exception ex)
+           {
+               log.Error("Error", ex);
+           }
+           return false;
+       }
+
+
+       public bool _UpdateSidikJari(string KodePasien, string NamaKolom, string  value)
+        {
+            try
+            {
+                _sql.Length = 0;
+                _sql.Append(" UPDATE TB_UKUR_SIDIK SET " + NamaKolom + "=" + value+ " WHERE ID_PASIEN='" + KodePasien + "'");
+                DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+                int _insert_record = db.ExecuteNonQuery(_command);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                log.Error("Error", ex);
+            }
+
+            return false;
+        }
+
+
+
+
+
+        public DataTable _SelectDataUkur(string KodePasien)
+        {
+            try
+            {
+                _sql.Length = 0;
+                _sql.Append(
+                    " SELECT L1,L2,L3,L4,L5,R1,R2,R3,R4,R5 FROM TB_UKUR_SIDIK WHERE ID_PASIEN='" + KodePasien +"'");
+
+
+                DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+                DataTable _dataTable = db.ExecuteDataSet(_command).Tables[0];
+                return _dataTable;
+
+
+            }
+            catch (Exception ex)
+            {
+                log.Error("Error", ex);
+            }
+            return null;
+        }
+
+        public DataTable _SelectR(string KodePasien)
+        {
+            try
+            {
+                _sql.Length = 0;
+                _sql.Append(
+                    " SELECT R1,R2,R3,R4,R5 FROM TB_UKUR_SIDIK WHERE ID_PASIEN='" + KodePasien + "'");
+
+
+                DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+                DataTable _dataTable = db.ExecuteDataSet(_command).Tables[0];
+                return _dataTable;
+            }
+            catch (Exception ex)
+            {
+                log.Error("Error", ex);
+            }
+            return null;
+        }
+
+        public DataTable _SelectL(string KodePasien)
+        {
+            try
+            {
+                _sql.Length = 0;
+                _sql.Append(
+                    " SELECT L1,L2,L3,L4,L5 FROM TB_UKUR_SIDIK WHERE ID_PASIEN='" + KodePasien + "'");
+
+
+                DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+                DataTable _dataTable = db.ExecuteDataSet(_command).Tables[0];
+                return _dataTable;
+            }
+            catch (Exception ex)
+            {
+                log.Error("Error", ex);
+            }
+            return null;
+        }
+
+
+
+
+
+        public DataSet _SelectHasilAnalisa(string KodePasien)
+        {
+            try
+            {
+                DataSet _ds = new DataSet();
+                _sql.Length = 0;
+                _sql.Append(
+                    "SELECT A.OTAK_KIRI, A.OTAK_KANAN, B.VISUAL_TEKS, B.VISUAL_GAMBAR, B.AUDITORI_BAHASA, B.AUDITORI_MUSIK, B.KINESTATIK_GERAKAN, B.KINESTATIK_SENTUHAN, C.PENGAMATAN_DAN_TRENDSETTER, C.EKSEKUTOR, C.INISIATOR_DAN_PEMIMPIN, C.PENGONSEP_DAN_PENGELOLA, D.VISUAL_TEKNIK, D.VISUAL_SENI, D.BAHASA, D.MUSIK, D.TEKNIK_GERAKAN, D.SENI_GERAKAN, D.LOGIKA_MATEMATIKA, D.INTUISI_DAN_KREATIVITAS, D.TATA_KEPRIBADIAN, D.TATA_HUBUNGAN_SOSIAL ");
+                _sql.Append(
+                    " FROM TB_DOMINASI_OTAK AS A, TB_GAYA_BELAJAR AS B, TB_GAYA_KERJA AS C, TB_KECENDERUNGAN_BAKAT AS D ");
+                _sql.Append(
+                    " WHERE (((A.ID_PASIEN)=[B].[ID_PASIEN] And (A.ID_PASIEN)=[C].[ID_PASIEN] And (A.ID_PASIEN)=[D].[ID_PASIEN])) AND A.ID_PASIEN='" + KodePasien + "'");
+
+                DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+                _ds = db.ExecuteDataSet(_command);
+                return _ds;
+            }
+            catch (Exception)
+            {
+
+            }
+            return null;
+        }
+
+
+
+
+        public bool _UpdateDominasiOtak(string KodePasien, double OtakKiri, double OtakKanan)
+        {
+            try
+            {
+                _sql.Length = 0;
+                _sql.Append(" UPDATE TB_DOMINASI_OTAK SET OTAK_KIRI=?,OTAK_KANAN=? WHERE ID_PASIEN='" + KodePasien + "'");
+                DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+
+                db.AddInParameter(_command,"OTAK_KIRI",DbType.Double,OtakKiri);
+                db.AddInParameter(_command, "OTAK_KANAN", DbType.Double, OtakKanan);
+               
+                int _insert_record = db.ExecuteNonQuery(_command);
+                return true;
+
+            }
+            catch (Exception)
+            {
+            }
+            return false;
+        }
+
+        public bool _UpdateGayaBelajar(string KodePasien, double VisualTeks, double VisualGambar, double AuditoriBahasa, double AuditoriMusik, double KinestatikGerakan, double KinestatikSentuhan)
+        {
+            try
+            {
+                _sql.Length = 0;
+                _sql.Append(" UPDATE TB_GAYA_BELAJAR SET VISUAL_TEKS=?,VISUAL_GAMBAR=?,AUDITORI_BAHASA=?,AUDITORI_MUSIK=?,KINESTATIK_GERAKAN=?,KINESTATIK_SENTUHAN=? WHERE ID_PASIEN='" + KodePasien + "'");
+                DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+                db.AddInParameter(_command, "VISUAL_TEKS", DbType.Double, VisualTeks);
+                db.AddInParameter(_command, "VISUAL_GAMBAR", DbType.Double, VisualGambar);
+                db.AddInParameter(_command, "AUDITORI_BAHASA", DbType.Double, AuditoriBahasa);
+                db.AddInParameter(_command, "AUDITORI_MUSIK", DbType.Double, AuditoriMusik);
+                db.AddInParameter(_command, "KINESTATIK_GERAKAN", DbType.Double, KinestatikGerakan);
+                db.AddInParameter(_command, "KINESTATIK_SENTUHAN", DbType.Double, KinestatikSentuhan);
+                int _insert_record = db.ExecuteNonQuery(_command);
+                return true;
+            }
+            catch (Exception)
+            {
+            }
+            return false;
+        }
+
+        public bool _UpdateGayaKerja(string KodePasien, double PengamatanDanTrendsetter, double Komunikator,double Eksekutor, double InisiatorDanPemimpin, double PengonsepDanPengelola)
+        {
+            try
+            {
+                _sql.Length = 0;
+                _sql.Append(" UPDATE TB_GAYA_KERJA SET PENGAMATAN_DAN_TRENDSETTER=@PENGAMATAN_DAN_TRENDSETTER,KOMUNIKATOR=@KOMUNIKATOR,EKSEKUTOR=@EKSEKUTOR,INISIATOR_DAN_PEMIMPIN=@INISIATOR_DAN_PEMIMPIN,PENGONSEP_DAN_PENGELOLA=@PENGONSEP_DAN_PENGELOLA WHERE ID_PASIEN='" + KodePasien + "'");
+                DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+                db.AddInParameter(_command, "@PENGAMATAN_DAN_TRENDSETTER", DbType.Double, PengamatanDanTrendsetter);
+                db.AddInParameter(_command, "@KOMUNIKATOR", DbType.Double, Komunikator);
+                db.AddInParameter(_command, "@EKSEKUTOR", DbType.Double, Eksekutor);
+                db.AddInParameter(_command, "@INISIATOR_DAN_PEMIMPIN", DbType.Double, InisiatorDanPemimpin);
+                db.AddInParameter(_command, "@PENGONSEP_DAN_PENGELOLA", DbType.Double, PengonsepDanPengelola);
+                int _insert_record = db.ExecuteNonQuery(_command);
+                return true;
+            }
+            catch (Exception)
+            {
+
+            }
+            return false;
+        }
+
+       public bool _UpdateKecenderunganBakat(string KodePasien, double VisualTeknik, double VisualSeni, double Bahasa, double Musik, double TeknikGerakan, double SeniGerakan, double LogikaMatematika, double IntuisiDanKreativitas, double TataKepribadian, double TataHubunganSosial)
+        {
+                try
+                {
+                    _sql.Length = 0;
+                    _sql.Append(" UPDATE TB_KECENDERUNGAN_BAKAT SET VISUAL_TEKNIK=" + VisualTeknik + " ,VISUAL_SENI=" +
+                                VisualSeni + ",BAHASA=" + Bahasa + " ,MUSIK=" + Musik + " ,TEKNIK_GERAKAN=" +
+                                TeknikGerakan + ",SENI_GERAKAN=" + SeniGerakan + ",LOGIKA_MATEMATIKA=" + LogikaMatematika +
+                                ",INTUISI_DAN_KREATIVITAS ="+ IntuisiDanKreativitas +
+                                ",TATA_KEPRIBADIAN=" +TataKepribadian + ",TATA_HUBUNGAN_SOSIAL=" 
+                                + TataHubunganSosial + " WHERE ID_PASIEN='" + KodePasien + "'");
+                    DbCommand _command = db.GetSqlStringCommand(_sql.ToString());
+                    int _insert_record = db.ExecuteNonQuery(_command);
+                    return true;
+                }
+                catch (Exception)
+                {
+                }
+                return false;
+        }
+
+
+    }
+}

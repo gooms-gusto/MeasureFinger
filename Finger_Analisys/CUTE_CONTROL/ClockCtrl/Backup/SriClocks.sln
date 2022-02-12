@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SriClocks", "SriClocks.csproj", "{C6FAE10E-3E92-4B13-9182-A479E4D90764}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingClock", "TestingClock\TestingClock.csproj", "{A607CEE3-AC4E-4975-9EDF-AB5F1DD6F6B1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C6FAE10E-3E92-4B13-9182-A479E4D90764}.Debug.ActiveCfg = Debug|.NET
+		{C6FAE10E-3E92-4B13-9182-A479E4D90764}.Debug.Build.0 = Debug|.NET
+		{C6FAE10E-3E92-4B13-9182-A479E4D90764}.Release.ActiveCfg = Release|.NET
+		{C6FAE10E-3E92-4B13-9182-A479E4D90764}.Release.Build.0 = Release|.NET
+		{A607CEE3-AC4E-4975-9EDF-AB5F1DD6F6B1}.Debug.ActiveCfg = Debug|.NET
+		{A607CEE3-AC4E-4975-9EDF-AB5F1DD6F6B1}.Debug.Build.0 = Debug|.NET
+		{A607CEE3-AC4E-4975-9EDF-AB5F1DD6F6B1}.Release.ActiveCfg = Release|.NET
+		{A607CEE3-AC4E-4975-9EDF-AB5F1DD6F6B1}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

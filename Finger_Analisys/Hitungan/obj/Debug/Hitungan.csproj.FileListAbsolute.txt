@@ -1,0 +1,47 @@
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\bin\Debug\Hitungan.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\bin\Debug\Hitungan.pdb
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\obj\Debug\Hitungan.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\obj\Debug\Hitungan.pdb
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\bin\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\bin\Debug\Microsoft.Practices.Unity.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\bin\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\_Dokumen\_Side Job\2013\ver 2010\Hitungan\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\bin\Debug\Hitungan.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\bin\Debug\Hitungan.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\bin\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\bin\Debug\Microsoft.Practices.Unity.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\bin\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\obj\Debug\Hitungan.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger Analisys\Hitungan\obj\Debug\Hitungan.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\Hitungan.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\Hitungan.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\DAL.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\Microsoft.Practices.Unity.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\DAL.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\obj\Debug\ResolveAssemblyReference.cache
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\obj\Debug\Hitungan.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\obj\Debug\Hitungan.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\EncrytionHash.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\EncrytionHash.pdb
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\_Dokumen\_Side Job\2013\repository\Finger_Analisys\Hitungan\bin\Debug\Microsoft.Practices.Unity.Interception.pdb

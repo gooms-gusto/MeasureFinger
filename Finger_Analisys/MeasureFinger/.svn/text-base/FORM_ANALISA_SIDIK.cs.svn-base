@@ -1,0 +1,132 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+using DAL;
+namespace MeasureFinger
+{
+    public partial class FORM_ANALISA_SIDIK : Form
+    {
+        private string _ID_TEMP;
+        private Proxy _proxy = new Proxy();
+        private DataTable _DataSelectedPasien;
+        public FORM_ANALISA_SIDIK(string ID)
+        {
+            InitializeComponent();
+          
+            //event jari kiri
+            _L1.Click += new EventHandler(JariClick);
+            _L2.Click+=new EventHandler(JariClick);
+            _L3.Click+=new EventHandler(JariClick);
+            _L4.Click+=new EventHandler(JariClick);
+            _L5.Click+=new EventHandler(JariClick);
+
+            //event jari kanan
+            _R1.Click+=new EventHandler(JariClick);
+            _R2.Click+=new EventHandler(JariClick);
+            _R3.Click+=new EventHandler(JariClick);
+            _R4.Click+=new EventHandler(JariClick);
+            _R5.Click +=new EventHandler(JariClick);
+
+
+            _ID_TEMP = ID;
+            _DataSelectedPasien = _proxy._GetPasien()._SelectPasien(_ID_TEMP, "");
+            _txtnamapasien.Text = _DataSelectedPasien.Rows[0]["NAMA_PASIEN"].ToString();
+            _txtusiapasien.Text = _DataSelectedPasien.Rows[0]["USIA"].ToString();
+
+
+            _LoadDataUkur();
+        }
+
+        void JariClick(object sender, EventArgs e)
+        {
+           //FORM_UKUR _formUkur=new FORM_UKUR(_ID_TEMP,((Label)sender).Tag.ToString());
+           //_formUkur.Closing += new CancelEventHandler(_formUkur_Closing);
+
+           // _formUkur.ShowDialog();
+        }
+
+        void _formUkur_Closing(object sender, CancelEventArgs e)
+        {
+            _LoadDataUkur();
+        }
+
+       void _LoadDataUkur()
+       {
+           DataTable _dtUkur = _proxy._GetPasien()._SelectDataUkur(_ID_TEMP);
+           _DgSidikUkur.DataSource = _dtUkur;
+           _DgSidikUkur.AutoSizeCols();
+
+           if (_dtUkur.Rows.Count == 0)
+               return;
+
+
+           if (string.IsNullOrEmpty( _dtUkur.Rows[0]["l1"].ToString()))
+                _L1.BackColor = Color.DarkOrange;
+           else
+                _L1.BackColor = Color.DarkOrchid;
+
+           if (string.IsNullOrEmpty(_dtUkur.Rows[0]["l2"].ToString()))
+               _L2.BackColor = Color.DarkOrange;
+           else
+               _L2.BackColor = Color.DarkOrchid;
+
+           if (string.IsNullOrEmpty(_dtUkur.Rows[0]["l3"].ToString()))
+               _L3.BackColor = Color.DarkOrange;
+           else
+               _L3.BackColor = Color.DarkOrchid;
+
+           if (string.IsNullOrEmpty(_dtUkur.Rows[0]["l4"].ToString()))
+               _L4.BackColor = Color.DarkOrange;
+           else
+               _L4.BackColor = Color.DarkOrchid;
+
+
+           if (string.IsNullOrEmpty(_dtUkur.Rows[0]["l5"].ToString()))
+               _L5.BackColor = Color.DarkOrange;
+           else
+               _L5.BackColor = Color.DarkOrchid;
+
+
+           if (string.IsNullOrEmpty(_dtUkur.Rows[0]["r1"].ToString()))
+               _R1.BackColor = Color.DarkOrange;
+           else
+               _R1.BackColor = Color.DarkOrchid;
+
+           if (string.IsNullOrEmpty(_dtUkur.Rows[0]["r2"].ToString()))
+               _R2.BackColor = Color.DarkOrange;
+           else
+               _R2.BackColor = Color.DarkOrchid;
+
+           if (string.IsNullOrEmpty(_dtUkur.Rows[0]["r3"].ToString()))
+               _R3.BackColor = Color.DarkOrange;
+           else
+               _R3.BackColor = Color.DarkOrchid;
+
+           if (string.IsNullOrEmpty(_dtUkur.Rows[0]["r4"].ToString()))
+               _R4.BackColor = Color.DarkOrange;
+           else
+               _R4.BackColor = Color.DarkOrchid;
+
+
+           if (string.IsNullOrEmpty(_dtUkur.Rows[0]["r5"].ToString()))
+               _R5.BackColor = Color.DarkOrange;
+           else
+               _R5.BackColor = Color.DarkOrchid;
+
+
+       }
+
+        private void _BtnTutup_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+      
+
+
+    }
+}

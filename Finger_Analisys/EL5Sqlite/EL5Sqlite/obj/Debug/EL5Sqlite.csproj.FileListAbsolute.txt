@@ -1,0 +1,13 @@
+D:\Gresik\SideJob\Revisi\Finger_Analisys\EL5Sqlite\EL5Sqlite\bin\Debug\EL5Sqlite.exe.config
+D:\Gresik\SideJob\Revisi\Finger_Analisys\EL5Sqlite\EL5Sqlite\obj\Debug\EL5Sqlite.csprojResolveAssemblyReference.cache
+D:\Gresik\SideJob\Revisi\Finger_Analisys\EL5Sqlite\EL5Sqlite\bin\Debug\x64\SQLite.Interop.dll
+D:\Gresik\SideJob\Revisi\Finger_Analisys\EL5Sqlite\EL5Sqlite\bin\Debug\x86\SQLite.Interop.dll
+D:\Gresik\SideJob\Revisi\Finger_Analisys\EL5Sqlite\EL5Sqlite\bin\Debug\Entlib.config
+D:\Gresik\SideJob\Revisi\Finger_Analisys\EL5Sqlite\EL5Sqlite\bin\Debug\EL5Sqlite.exe
+D:\Gresik\SideJob\Revisi\Finger_Analisys\EL5Sqlite\EL5Sqlite\bin\Debug\EL5Sqlite.pdb
+D:\Gresik\SideJob\Revisi\Finger_Analisys\EL5Sqlite\EL5Sqlite\bin\Debug\EntLibContrib.Data.SqLite.dll
+D:\Gresik\SideJob\Revisi\Finger_Analisys\EL5Sqlite\EL5Sqlite\bin\Debug\System.Data.SQLite.dll
+D:\Gresik\SideJob\Revisi\Finger_Analisys\EL5Sqlite\EL5Sqlite\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Gresik\SideJob\Revisi\Finger_Analisys\EL5Sqlite\EL5Sqlite\bin\Debug\EntLibContrib.Data.SqLite.pdb
+D:\Gresik\SideJob\Revisi\Finger_Analisys\EL5Sqlite\EL5Sqlite\obj\Debug\EL5Sqlite.exe
+D:\Gresik\SideJob\Revisi\Finger_Analisys\EL5Sqlite\EL5Sqlite\obj\Debug\EL5Sqlite.pdb

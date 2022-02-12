@@ -1,0 +1,127 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using Hitungan;
+using DAL;
+namespace MeasureFinger
+{
+    public partial class FORM_HASIL_ANALISA : Form
+    {
+        private Hitung _hitung = new Hitung();
+        private string _KodePasien;
+        private Proxy _proxy = new Proxy();
+        public FORM_HASIL_ANALISA(string KodePasien)
+        {
+            InitializeComponent();
+            _KodePasien = KodePasien;
+            _ShowDetailData(KodePasien);
+        }
+
+
+        void _SaveComponent(string KodePasien)
+        {
+            
+        }
+
+        void _ShowDetailData(string KodePasien)
+        {
+
+           DataTable   _DataSelectedPasien = _proxy._GetPasien()._SelectPasien(KodePasien, "");
+            _txt_nama.Text = _DataSelectedPasien.Rows[0]["NAMA_PASIEN"].ToString();
+            _txt_usia.Text = _DataSelectedPasien.Rows[0]["USIA"].ToString();
+
+
+
+           // dominasi otak
+
+            _txt_otak_kanan.Text = Math.Round(_hitung.GetPotentisialSkill().GetVisualSeni(KodePasien) +_hitung.GetPotentisialSkill().GetMusik(KodePasien) + _hitung.GetPotentisialSkill().GetSeniGerakan(KodePasien) +
+                       _hitung.GetPotentisialSkill().GetIntuisiDanKreatifitas(KodePasien) + _hitung.GetPotentisialSkill().GetHubunganSosial(KodePasien)).ToString();
+            _txt_otak_kiri.Text = Math.Round(_hitung.GetPotentisialSkill().GetVisualTeknik(KodePasien) + _hitung.GetPotentisialSkill().GetBahasa(KodePasien) + _hitung.GetPotentisialSkill().GetTeknikGerakan(KodePasien) +
+                       _hitung.GetPotentisialSkill().GetLogikaMatematika(KodePasien) + _hitung.GetPotentisialSkill().GetTataKepribadian(KodePasien)).ToString();
+
+            _proxy._GetPasien()._UpdateDominasiOtak(KodePasien, Math.Round(_hitung.GetPotentisialSkill().GetVisualTeknik(KodePasien) + _hitung.GetPotentisialSkill().GetBahasa(KodePasien) + _hitung.GetPotentisialSkill().GetTeknikGerakan(KodePasien) +
+                       _hitung.GetPotentisialSkill().GetLogikaMatematika(KodePasien) + _hitung.GetPotentisialSkill().GetTataKepribadian(KodePasien)), Math.Round(_hitung.GetPotentisialSkill().GetVisualSeni(KodePasien) + _hitung.GetPotentisialSkill().GetMusik(KodePasien) + _hitung.GetPotentisialSkill().GetSeniGerakan(KodePasien) +
+                       _hitung.GetPotentisialSkill().GetIntuisiDanKreatifitas(KodePasien) + _hitung.GetPotentisialSkill().GetHubunganSosial(KodePasien)));
+
+
+
+            // gaya belajar
+            
+
+            _txt_visual_teks.Text =Math.Round(_hitung.GetGayaBelajar().GetVisualTeks(_KodePasien),4).ToString() ;
+            _txt_visual_gambar.Text = Math.Round(_hitung.GetGayaBelajar().GetVisualGambar(_KodePasien), 4).ToString() ;
+            _txt_auditori_bahasa.Text = Math.Round(_hitung.GetGayaBelajar().GetAuditoriBahasa(_KodePasien), 4).ToString() ;
+            _txt_auditori_musik.Text = Math.Round(_hitung.GetGayaBelajar().GetAuditoriMusik(_KodePasien), 4).ToString() ;
+            _txt_kinestatik_sentuhan.Text = Math.Round(_hitung.GetGayaBelajar().GetKinestatikSentuhan(_KodePasien), 4).ToString() ;
+            _txt_kinestatik_gerakan.Text = Math.Round(_hitung.GetGayaBelajar().GetKinestatikGerakan(_KodePasien), 4).ToString() ;
+
+            _proxy._GetPasien()._UpdateGayaBelajar(KodePasien,
+                                                   Math.Round(_hitung.GetGayaBelajar().GetVisualTeks(_KodePasien), 4),
+                                                   Math.Round(_hitung.GetGayaBelajar().GetVisualGambar(_KodePasien), 4),
+                                                   Math.Round(_hitung.GetGayaBelajar().GetAuditoriBahasa(_KodePasien), 4),
+                                                   Math.Round(_hitung.GetGayaBelajar().GetAuditoriMusik(_KodePasien), 4),
+                                                   Math.Round(_hitung.GetGayaBelajar().GetKinestatikSentuhan(_KodePasien), 4),
+                                                   Math.Round(_hitung.GetGayaBelajar().GetKinestatikGerakan(_KodePasien), 4));
+
+
+
+
+            // gaya kerja
+
+            _txt_pengamatan.Text = Math.Round(_hitung.GetGayaKerja().GetPengamatan(_KodePasien), 4).ToString() ;
+            _txt_komunikator.Text= Math.Round(_hitung.GetGayaKerja().GetKomunikator(_KodePasien), 4).ToString() ;
+            _txt_eksekutor.Text= Math.Round(_hitung.GetGayaKerja().GetEksekutorDanPelaksana(_KodePasien), 4).ToString() ;
+            _txt_inisator_pemimpin.Text= Math.Round(_hitung.GetGayaKerja().GetInisiatorDanPemimpin(_KodePasien), 4).ToString() ;
+            _txt_pengonsep.Text = Math.Round(_hitung.GetGayaKerja().GetPengonsepDanPengelola(_KodePasien), 4).ToString() ;
+
+            _proxy._GetPasien()._UpdateGayaKerja(KodePasien,
+                                                 Math.Round(_hitung.GetGayaKerja().GetPengamatan(_KodePasien), 4),
+                                                 Math.Round(_hitung.GetGayaKerja().GetKomunikator(_KodePasien), 4),
+                                                 Math.Round(_hitung.GetGayaKerja().GetEksekutorDanPelaksana(_KodePasien), 4),
+                                                 Math.Round(_hitung.GetGayaKerja().GetInisiatorDanPemimpin(_KodePasien), 4),
+                                                 Math.Round(_hitung.GetGayaKerja().GetPengonsepDanPengelola(_KodePasien), 4));
+
+
+
+
+
+
+                // potensial skill
+
+
+                _txt_visual_teknik.Text=Math.Round(_hitung.GetPotentisialSkill().GetVisualTeknik(_KodePasien), 4).ToString() ;
+                _txt_visual_seni.Text=Math.Round(_hitung.GetPotentisialSkill().GetVisualSeni(_KodePasien), 4).ToString() ;
+                _txt_bahasa.Text=Math.Round(_hitung.GetPotentisialSkill().GetBahasa(_KodePasien), 4).ToString() ;
+                _txt_musik.Text=Math.Round(_hitung.GetPotentisialSkill().GetMusik(_KodePasien), 4).ToString() ;
+                _txt_teknik_gerakan.Text=Math.Round(_hitung.GetPotentisialSkill().GetTeknikGerakan(_KodePasien), 4).ToString() ;
+                _txt_seni_gerakan.Text=Math.Round(_hitung.GetPotentisialSkill().GetSeniGerakan(_KodePasien), 4).ToString() ;
+                _txt_logika_matematika.Text=Math.Round(_hitung.GetPotentisialSkill().GetLogikaMatematika(_KodePasien), 4).ToString() ;
+                _txt_intuisi_kreativitas.Text=Math.Round(_hitung.GetPotentisialSkill().GetIntuisiDanKreatifitas(_KodePasien), 4).ToString() ;
+                _txt_tata_kepribadian.Text=Math.Round(_hitung.GetPotentisialSkill().GetTataKepribadian(_KodePasien), 4).ToString() ;
+                _txt_hubungan_sosial.Text = Math.Round(_hitung.GetPotentisialSkill().GetHubunganSosial(_KodePasien), 4).ToString() ;
+
+                _proxy._GetPasien()._UpdateKecenderunganBakat(KodePasien,
+                                                          Math.Round(_hitung.GetPotentisialSkill().GetVisualTeknik(_KodePasien), 4),
+                                                          Math.Round(_hitung.GetPotentisialSkill().GetVisualSeni(_KodePasien),4),
+                                                          Math.Round(_hitung.GetPotentisialSkill().GetBahasa(_KodePasien), 4),
+                                                          Math.Round(_hitung.GetPotentisialSkill().GetMusik(_KodePasien), 4),
+                                                          Math.Round(_hitung.GetPotentisialSkill().GetTeknikGerakan(_KodePasien),4),
+                                                          Math.Round(_hitung.GetPotentisialSkill().GetSeniGerakan(_KodePasien), 4),
+                                                          Math.Round(_hitung.GetPotentisialSkill().GetLogikaMatematika(_KodePasien), 4),
+                                                          Math.Round(_hitung.GetPotentisialSkill().GetIntuisiDanKreatifitas(_KodePasien), 4),
+                                                          Math.Round(_hitung.GetPotentisialSkill().GetTataKepribadian(_KodePasien), 4),
+                                                          Math.Round(_hitung.GetPotentisialSkill().GetHubunganSosial(_KodePasien), 4));
+        }
+        private void _BtnKeluar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+
+    }
+}

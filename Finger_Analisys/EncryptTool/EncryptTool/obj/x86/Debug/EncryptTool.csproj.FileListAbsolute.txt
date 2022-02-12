@@ -1,0 +1,9 @@
+D:\Gresik\EncryptTool\EncryptTool\bin\Debug\EncryptTool.exe
+D:\Gresik\EncryptTool\EncryptTool\bin\Debug\EncryptTool.pdb
+D:\Gresik\EncryptTool\EncryptTool\obj\x86\Debug\EncryptTool.csprojResolveAssemblyReference.cache
+D:\Gresik\EncryptTool\EncryptTool\obj\x86\Debug\EncryptTool.Form1.resources
+D:\Gresik\EncryptTool\EncryptTool\obj\x86\Debug\EncryptTool.Properties.Resources.resources
+D:\Gresik\EncryptTool\EncryptTool\obj\x86\Debug\EncryptTool.csproj.GenerateResource.Cache
+D:\Gresik\EncryptTool\EncryptTool\obj\x86\Debug\EncryptTool.exe
+D:\Gresik\EncryptTool\EncryptTool\obj\x86\Debug\EncryptTool.pdb
+D:\Gresik\EncryptTool\EncryptTool\bin\Debug\EncryptTool.exe.config

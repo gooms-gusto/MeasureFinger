@@ -1,0 +1,631 @@
+10
+
+dir
+1
+https://ak-pc:8443/svn/Finger_Analisys/MeasureFinger/_ReSharper.MeasureFinger/XmlIndex
+https://ak-pc:8443/svn/Finger_Analisys
+
+
+
+2013-02-21T02:44:31.250836Z
+1
+admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b7d32ad4-daa8-fc47-bee5-c3c41dc20e9e
+
+System.Runtime.Serialization.xml
+dir
+
+System.Security.2.0.0.0.Contracts.xml
+dir
+
+System.Core.3.5.0.0.Pure.xml
+dir
+
+mscorlib.2.0.0.0.Interfaces.Nullness.Generated.xml
+dir
+
+System.Security.4.0.0.0.Contracts.xml
+dir
+
+Accessibility.xml
+dir
+
+CrystalDecisions.Shared.xml
+dir
+
+mscorlib.4.0.0.0.Interfaces.Nullness.Generated.xml
+dir
+
+mscorlib.Nullness.Manual.xml
+dir
+
+System.Management.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.DirectoryServices.xml
+dir
+
+Microsoft.VisualBasic.10.0.0.0.Pure.xml
+dir
+
+Microsoft.Practices.EnterpriseLibrary.Data.xml
+dir
+
+Microsoft.Vsa.xml
+dir
+
+System.Security.4.0.0.0.Pure.xml
+dir
+
+System.Runtime.Serialization.Formatters.Soap.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Windows.Forms.xml
+dir
+
+System.Core.LinqTunnel.xml
+dir
+
+System.Web.2.0.0.0.Pure.xml
+dir
+
+System.Drawing.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Core.3.5.0.0.Contracts.xml
+dir
+
+System.Core.3.5.0.0.Nullness.Generated.xml
+dir
+
+mscorlib.xml
+dir
+
+System.ServiceProcess.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Web.Services.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Xml.2.0.0.0.Contracts.xml
+dir
+
+System.2.0.0.0.Contracts.xml
+dir
+
+System.Drawing.xml
+dir
+
+System.Xml.4.0.0.0.Contracts.xml
+dir
+
+System.4.0.0.0.Contracts.xml
+dir
+
+System.Xml.Linq.4.0.0.0.Nullness.Generated.xml
+dir
+
+Microsoft.JScript.8.0.0.0.Nullness.Generated.xml
+dir
+
+Microsoft.JScript.xml
+dir
+
+System.Runtime.Remoting.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Security.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Transactions.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Xml.Linq.3.5.0.0.Contracts.xml
+dir
+
+System.Design.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Data.2.0.0.0.Contracts.xml
+dir
+
+C1.C1Excel.2.xml
+dir
+
+System.Data.4.0.0.0.Contracts.xml
+dir
+
+System.2.0.0.0.Pure.xml
+dir
+
+log4net.I18n.xml
+dir
+
+System.Data.OracleClient.4.0.0.0.Nullness.Generated.xml
+dir
+
+Microsoft.JScript.10.0.0.0.Nullness.Generated.xml
+dir
+
+System.Configuration.xml
+dir
+
+System.Data.DataSetExtensions.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Windows.Forms.2.0.0.0.Contracts.xml
+dir
+
+Microsoft.Vsa.8.0.0.0.Nullness.Generated.xml
+dir
+
+System.Design.xml
+dir
+
+System.Windows.Forms.4.0.0.0.Contracts.xml
+dir
+
+System.Configuration.Install.xml
+dir
+
+System.Data.2.0.0.0.Pure.xml
+dir
+
+System.Runtime.Serialization.Formatters.Soap.2.0.0.0.Contracts.xml
+dir
+
+System.Xml.I18n.xml
+dir
+
+System.EnterpriseServices.4.0.0.0.Nullness.Generated.xml
+dir
+
+mscorlib.2.0.0.0.Contracts.xml
+dir
+
+System.Runtime.Serialization.Formatters.Soap.4.0.0.0.Contracts.xml
+dir
+
+System.Xml.Linq.I18n.xml
+dir
+
+mscorlib.4.0.0.0.Contracts.xml
+dir
+
+System.Drawing.2.0.0.0.Contracts.xml
+dir
+
+System.Windows.Forms.4.0.0.0.Pure.xml
+dir
+
+System.Drawing.4.0.0.0.Contracts.xml
+dir
+
+Microsoft.Build.Tasks.v4.0.xml
+dir
+
+System.Drawing.Design.2.0.0.0.Nullness.Generated.xml
+dir
+
+mscorlib.4.0.0.0.Pure.xml
+dir
+
+System.Configuration.2.0.0.0.Contracts.xml
+dir
+
+System.Xaml.xml
+dir
+
+System.Configuration.4.0.0.0.Contracts.xml
+dir
+
+C1.Win.C1FlexGrid.2.xml
+dir
+
+System.Configuration.Install.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Runtime.Remoting.xml
+dir
+
+Microsoft.Build.Framework.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Management.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Windows.Forms.2.0.0.0.Nullness.Generated.xml
+dir
+
+ADODB.7.0.3300.0.Nullness.Generated.xml
+dir
+
+System.Security.2.0.0.0.Pure.xml
+dir
+
+System.Configuration.4.0.0.0.Pure.xml
+dir
+
+System.Core.Pure.Manual.xml
+dir
+
+mscorlib.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Numerics.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Runtime.Serialization.Formatters.Soap.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Core.4.0.0.0.Contracts.xml
+dir
+
+System.DirectoryServices.Protocols.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Xml.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Web.Services.4.0.0.0.Nullness.Generated.xml
+dir
+
+Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+dir
+
+System.ServiceProcess.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Xml.Linq.4.0.0.0.Contracts.xml
+dir
+
+Microsoft.VisualBasic.10.0.0.0.Nullness.Generated.xml
+dir
+
+System.Configuration.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Runtime.Remoting.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Xml.Linq.3.5.0.0.Nullness.Generated.xml
+dir
+
+System.Security.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Transactions.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Design.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Messaging.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Web.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Data.DataSetExtensions.3.5.0.0.Nullness.Generated.xml
+dir
+
+System.Data.DataSetExtensions.xml
+dir
+
+System.Web.ApplicationServices.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Nullness.Manual.xml
+dir
+
+System.Windows.Forms.2.0.0.0.Pure.xml
+dir
+
+System.Web.ApplicationServices.xml
+dir
+
+Microsoft.VisualBasic.8.0.0.0.Nullness.Generated.xml
+dir
+
+Microsoft.VisualC.xml
+dir
+
+System.2.0.0.0.Nullness.Generated.xml
+dir
+
+mscorlib.ValueFlow.xml
+dir
+
+System.Runtime.Serialization.4.0.0.0.Nullness.Generated.xml
+dir
+
+mscorlib.2.0.0.0.Pure.xml
+dir
+
+System.Web.I18n.xml
+dir
+
+System.Xaml.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Drawing.Design.4.0.0.0.Nullness.Generated.xml
+dir
+
+Microsoft.VisualBasic.10.0.0.0.Contracts.xml
+dir
+
+System.xml
+dir
+
+System.Data.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Xml.Linq.xml
+dir
+
+System.Drawing.Design.xml
+dir
+
+System.Configuration.Install.2.0.0.0.Contracts.xml
+dir
+
+System.Web.2.0.0.0.Contracts.xml
+dir
+
+System.Xml.4.0.0.0.Pure.xml
+dir
+
+System.Configuration.Install.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Configuration.Install.4.0.0.0.Contracts.xml
+dir
+
+System.Transactions.xml
+dir
+
+System.Web.4.0.0.0.Contracts.xml
+dir
+
+System.Xml.Linq.4.0.0.0.Pure.xml
+dir
+
+System.Data.xml
+dir
+
+System.Windows.Forms.DataVisualization.xml
+dir
+
+System.Deployment.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Windows.Forms.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Configuration.2.0.0.0.Pure.xml
+dir
+
+CrystalDecisions.Windows.Forms.xml
+dir
+
+log4net.Attributes.xml
+dir
+
+System.I18n.xml
+dir
+
+Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.xml
+dir
+
+System.Data.SqlXml.2.0.0.0.Nullness.Generated.xml
+dir
+
+mscorlib.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Web.Services.Attributes.xml
+dir
+
+System.Numerics.xml
+dir
+
+System.Runtime.Serialization.Formatters.Soap.xml
+dir
+
+System.DirectoryServices.Protocols.4.0.0.0.Nullness.Generated.xml
+dir
+
+Microsoft.Practices.EnterpriseLibrary.Logging.xml
+dir
+
+System.Data.I18n.xml
+dir
+
+Microsoft.Practices.EnterpriseLibrary.Common.xml
+dir
+
+System.DirectoryServices.Protocols.xml
+dir
+
+System.Xml.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.DirectoryServices.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Configuration.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Web.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Runtime.DurableInstancing.4.0.0.0.Nullness.Generated.xml
+dir
+
+Microsoft.Build.Utilities.v4.0.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Runtime.Serialization.Attributes.xml
+dir
+
+Microsoft.VisualBasic.8.0.0.0.Contracts.xml
+dir
+
+System.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Core.4.0.0.0.Pure.xml
+dir
+
+System.Xml.xml
+dir
+
+System.Data.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Windows.Forms.DataVisualization.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Xml.2.0.0.0.Pure.xml
+dir
+
+System.Drawing.Pure.xml
+dir
+
+System.Deployment.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Data.OracleClient.xml
+dir
+
+System.Xml.Linq.3.5.0.0.Pure.xml
+dir
+
+System.Runtime.Caching.xml
+dir
+
+Microsoft.Build.Utilities.v4.0.xml
+dir
+
+System.Web.RegularExpressions.xml
+dir
+
+System.Core.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Data.SqlXml.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Web.4.0.0.0.Pure.xml
+dir
+
+System.Drawing.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.EnterpriseServices.xml
+dir
+
+Microsoft.Build.Tasks.v4.0.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Xml.Attributes.xml
+dir
+
+Microsoft.VisualBasic.xml
+dir
+
+CrystalDecisions.ReportSource.xml
+dir
+
+System.Windows.Forms.I18n.xml
+dir
+
+System.ServiceProcess.xml
+dir
+
+System.Web.Services.xml
+dir
+
+Microsoft.VisualBasic.8.0.0.0.Pure.xml
+dir
+
+CrystalDecisions.CrystalReports.Engine.xml
+dir
+
+System.Web.Attributes.xml
+dir
+
+System.DirectoryServices.4.0.0.0.Nullness.Generated.xml
+dir
+
+mscorlib.I18n.xml
+dir
+
+System.Data.OracleClient.2.0.0.0.Nullness.Generated.xml
+dir
+
+System.Core.Nullness.Manual.xml
+dir
+
+System.4.0.0.0.Pure.xml
+dir
+
+System.Security.xml
+dir
+
+System.Runtime.Caching.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Management.xml
+dir
+
+Microsoft.Build.Framework.xml
+dir
+
+System.EnterpriseServices.2.0.0.0.Nullness.Generated.xml
+dir
+
+mscorlib.Pure.Manual.xml
+dir
+
+System.Messaging.xml
+dir
+
+System.Web.xml
+dir
+
+SMDiagnostics.4.0.0.0.Nullness.Generated.xml
+dir
+
+System.Data.4.0.0.0.Pure.xml
+dir
+
+System.Deployment.xml
+dir
+
+System.Data.SqlXml.xml
+dir
+
+System.Core.xml
+dir
+
+System.Data.DataSetExtensions.I18n.xml
+dir
+
+System.Windows.Forms.Manual.xml
+dir
+
