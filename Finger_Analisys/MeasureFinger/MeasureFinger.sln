@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasureFinger", "MeasureFinger.csproj", "{A54E79A9-CDDB-4CCB-B746-8FCF09C0C4C5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{0BF0A251-76E1-40F8-BAFD-2B545B974BE3}"
@@ -14,8 +16,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hitungan", "..\Hitungan\Hitungan.csproj", "{7BBBA398-D231-430C-8856-F52B5734B86B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncrytionHash", "..\EncrytionHash\EncrytionHash.csproj", "{E1C4EEB8-930F-4990-A976-00F98023AA49}"
-EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer Finger Analysis Ver 1.0", "..\Installer Finger Analysis Ver 1.0\Installer Finger Analysis Ver 1.0.vdproj", "{F3D3FD70-9448-44D8-B51C-83C638600545}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyGenerator", "..\KeyGenerator\KeyGenerator.csproj", "{CBA697D2-7E6A-4AAB-8D4A-69C92B83C832}"
 EndProject
@@ -94,15 +94,6 @@ Global
 		{E1C4EEB8-930F-4990-A976-00F98023AA49}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{E1C4EEB8-930F-4990-A976-00F98023AA49}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{E1C4EEB8-930F-4990-A976-00F98023AA49}.Release|x86.ActiveCfg = Release|Any CPU
-		{F3D3FD70-9448-44D8-B51C-83C638600545}.Debug|Any CPU.ActiveCfg = Debug
-		{F3D3FD70-9448-44D8-B51C-83C638600545}.Debug|Mixed Platforms.ActiveCfg = Debug
-		{F3D3FD70-9448-44D8-B51C-83C638600545}.Debug|x86.ActiveCfg = Debug
-		{F3D3FD70-9448-44D8-B51C-83C638600545}.Debug|x86.Build.0 = Debug
-		{F3D3FD70-9448-44D8-B51C-83C638600545}.Release|Any CPU.ActiveCfg = Release
-		{F3D3FD70-9448-44D8-B51C-83C638600545}.Release|Mixed Platforms.ActiveCfg = Release
-		{F3D3FD70-9448-44D8-B51C-83C638600545}.Release|Mixed Platforms.Build.0 = Release
-		{F3D3FD70-9448-44D8-B51C-83C638600545}.Release|x86.ActiveCfg = Release
-		{F3D3FD70-9448-44D8-B51C-83C638600545}.Release|x86.Build.0 = Release
 		{CBA697D2-7E6A-4AAB-8D4A-69C92B83C832}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{CBA697D2-7E6A-4AAB-8D4A-69C92B83C832}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
 		{CBA697D2-7E6A-4AAB-8D4A-69C92B83C832}.Debug|x86.ActiveCfg = Debug|x86
@@ -118,5 +109,6 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		VisualSVNWorkingCopyRoot = ..
+		SolutionGuid = {95FE4F57-5442-4092-ACCA-88D7F9B984F4}
 	EndGlobalSection
 EndGlobal

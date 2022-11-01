@@ -124,7 +124,6 @@
     </Compile>
     <Compile Include="bin\Debug\XsdReport.cs">
       <DependentUpon>XsdReport.xsd</DependentUpon>
-      <SubType>Component</SubType>
     </Compile>
     <Compile Include="CanvasReport.cs">
       <SubType>Form</SubType>

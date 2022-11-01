@@ -6,6 +6,7 @@ using System.Collections;
 using System.Text;
 using log4net;
 using EncrytionHash;
+using DeviceId;
 
 namespace DAL
 {
@@ -95,7 +96,17 @@ namespace DAL
            }
            return result;
        }
-
+        public string _GetDeviceID()
+        {
+            try
+            { string deviceId = new DeviceIdBuilder().AddMachineName().AddMacAddress().AddOsVersion().AddUserName().ToString();
+            return deviceId;}
+            catch(Exception ex)
+            {
+                log.Error(ex);
+            }
+            return string.Empty;
+        }
         public string _GetIDProcessor()
         {
             try
@@ -207,7 +218,7 @@ namespace DAL
             {
                 if (string.IsNullOrEmpty(fingerPrint))
                 {
-                    fingerPrint = GetHash(EncrytionHash.Kunci.Encrypt(_GetIDProcessor() + "AKBAR" + _GetBios())) ;
+                    fingerPrint = GetHash(EncrytionHash.Kunci.Encrypt(_GetDeviceID() + "AKBAR" )) ;
                 }
                 return fingerPrint;
             }
@@ -225,7 +236,7 @@ namespace DAL
             string NoSeri = "";
             try
             {
-                NoSeri = EncrytionHash.Kunci.Encrypt(_GetIDProcessor() + "AKBAR" + _GetBios());
+                NoSeri = EncrytionHash.Kunci.Encrypt(_GetDeviceID() + "AKBAR");
                 return NoSeri;
             }
             catch (Exception ex)
